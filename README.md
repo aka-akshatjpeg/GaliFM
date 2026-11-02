@@ -1,21 +1,29 @@
 # Gali FM
 
-Gali FM is a browser-based collection of themed music stations, built with HTML, CSS, and JavaScript. It includes station pages, a player interface, and a small Python server for local development.
+Gali FM is a browser-based radio experience built around seven themed stations inspired by everyday Indian life. It uses HTML, CSS, and JavaScript, with a small Python server for local development.
 
 ## Run locally
 
-Use Python 3 to start the development server:
+Python 3 is the only local prerequisite; the server uses the Python standard library.
 
 ```bash
 python server.py
 ```
 
-Then open the local address printed by the server. You can also serve the static files with another local web server.
+Open [http://localhost:8080](http://localhost:8080). To use another port, pass it as an argument, for example `python server.py 9000`.
 
-## Music files
+## Project files
 
-The original project folder contains local MP3 files. They are excluded from this repository because their redistribution rights have not been established. The app may need licensed or otherwise authorized audio files in the corresponding `music/` folders to play tracks locally.
+- `index.html` and `stations.html` — landing page and station browser
+- `music-library.json` — station and track metadata
+- `assets/stations/` — station artwork
+- `music/` — local audio files used during development
+
+## Audio files
+
+The original project contains MP3s that are not included in this public repository because redistribution rights have not been established. The player needs audio files you have permission to use in the corresponding `music/` folders. Without those files, the interface loads but tracks cannot play.
 
 ## License
 
 No license is included. Ask the author before reusing or redistributing this project.
+
