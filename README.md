@@ -19,4 +19,3 @@ The original project folder contains local MP3 files. They are excluded from thi
 ## License
 
 No license is included. Ask the author before reusing or redistributing this project.
-

@@ -1,0 +1,20 @@
+# Local audio files; publish only audio you have rights to redistribute.
+music/**/*.mp3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local configuration and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

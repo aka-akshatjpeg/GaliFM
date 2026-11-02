@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Haryanvi Bangers — Gali FM</title>
+  <meta name="description" content="Gaam ki vibe, tractor ki ride, desi beats, and high-energy Haryanvi tracks that hit different. Gali FM — Haryanvi Bangers." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="player.css?v=ishq" />
+</head>
+<body class="page-player">
+
+<nav class="player-nav" aria-label="Station navigation">
+  <a href="index.html" class="player-nav-logo" aria-label="Gali FM — home">
+    <svg width="20" height="20" viewBox="0 0 28 28" fill="none" aria-hidden="true">
+      <circle cx="14" cy="14" r="12" stroke="currentColor" stroke-width="1.5"/>
+      <circle cx="14" cy="14" r="5"  fill="currentColor" opacity="0.25"/>
+      <circle cx="14" cy="14" r="2"  fill="currentColor"/>
+      <line x1="14" y1="2" x2="14" y2="6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+    <span>Gali <em>FM</em></span>
+  </a>
+  <div class="player-nav-center" aria-live="polite">
+    <span class="player-nav-icon" id="navIcon" aria-hidden="true">🚜</span>
+    <span class="player-nav-station" id="navStation">Haryanvi Bangers</span>
+  </div>
+  <a href="stations.html" class="player-nav-back" aria-label="Back to all stations">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"/></svg>
+    All Stations
+  </a>
+</nav>
+
+<main class="player-area" id="playerArea" aria-label="Station player">
+  <div class="player-bg" id="playerBg" aria-hidden="true"></div>
+  <div class="player-glow" id="playerGlow" aria-hidden="true"></div>
+
+  <div class="player-content">
+    <div class="player-info">
+      <span class="player-tag">Now On Air</span>
+      <h1 class="player-station-name" id="stationName">Haryanvi Bangers</h1>
+      <p  class="player-station-deva" id="stationDeva">हरियाणवी बैंगर्स</p>
+      <p  class="player-caption"      id="stationCaption"></p>
+
+      <div class="player-now-playing" role="status" aria-live="polite" aria-atomic="true">
+        <span class="player-now-playing-dot idle" id="nowPlayDot" aria-hidden="true"></span>
+        <div style="min-width:0; flex:1">
+          <strong id="nowPlayTrack">—</strong>
+          <span class="player-now-playing-text" id="nowPlayStatus"></span>
+        </div>
+        <span class="player-track-counter" id="trackCounter" aria-label="Track position">— / —</span>
+      </div>
+
+      <div class="player-seek" role="group" aria-label="Track progress">
+        <span class="seek-time" id="seekCurrent">--:--</span>
+        <input type="range" id="seekBar" class="range-input" min="0" max="100" step="0.1" value="0" style="--pct:0%" aria-label="Seek" disabled />
+        <span class="seek-time right" id="seekDuration">--:--</span>
+      </div>
+
+      <div class="player-controls">
+        <div class="controls-row">
+          <button class="btn-track-nav" id="btnPrevTrack" aria-label="Previous track" title="Previous track (←)">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" y1="4" x2="5" y2="20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          </button>
+          <button class="btn-play" id="btnPlay" data-state="idle" aria-label="Play" aria-pressed="false" title="Play / Pause (Space)">
+            <svg class="icon-play"  width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+            <svg class="icon-pause" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
+            <svg class="icon-loading" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M12 2a10 10 0 0 1 10 10"/></svg>
+          </button>
+          <button class="btn-track-nav" id="btnNextTrack" aria-label="Next track" title="Next track (→)">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" y1="4" x2="19" y2="20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          </button>
+          <button class="btn-toggle" id="btnRepeat" aria-label="Repeat off — click to repeat all" aria-pressed="false" title="Repeat (R)">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>
+          </button>
+          <span style="width:1px;height:24px;background:var(--border);flex-shrink:0;margin:0 2px" aria-hidden="true"></span>
+          <button class="btn-icon" id="btnMute" aria-label="Mute" title="Mute (M)">
+            <svg class="icon-vol-on" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
+            <svg class="icon-vol-off" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><line x1="23" y1="9" x2="17" y2="15"/><line x1="17" y1="9" x2="23" y2="15"/></svg>
+          </button>
+        </div>
+        <div class="controls-vol-row">
+          <span class="vol-icon" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/></svg></span>
+          <input type="range" id="volumeSlider" class="range-input" min="0" max="100" step="1" value="80" style="--pct:80%" aria-label="Volume" />
+          <span class="vol-icon" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg></span>
+        </div>
+        <div class="controls-row" style="margin-top:4px">
+          <a class="btn-station-nav" id="btnPrevStation" href="chatpate-gaane.html" aria-label="Previous station">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"/></svg>
+            Prev station
+          </a>
+          <a class="btn-station-nav" id="btnNextStation" href="ishq-wali-gali.html" aria-label="Next station">
+            Next station
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><polyline points="9 18 15 12 9 6"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <div class="player-visualizer" id="vizContainer" aria-hidden="true"></div>
+      <p class="player-no-audio" id="noAudioMsg" role="note">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+        No tracks configured. Place MP3s in <code>music/corporate-majdoor/</code> and add entries to <code>stations-data.js</code>.
+      </p>
+    </div>
+
+    <div class="player-vinyl-wrap">
+      <div class="vinyl" id="vinyl" aria-hidden="true">
+        <div class="vinyl-label">
+          <span class="vinyl-label-icon" id="vinylIcon">🚜</span>
+          <span class="vinyl-label-text"  id="vinylName">Haryanvi Bangers</span>
+        </div>
+      </div>
+      <div class="tonearm-wrap" id="tonearm" aria-hidden="true">
+        <div class="tonearm-pivot"></div>
+        <div class="tonearm-arm"></div>
+        <div class="tonearm-head"></div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<audio id="audioEl" preload="metadata" aria-hidden="true"></audio>
+<script src="stations-data.js?v=ishq"></script>
+<script>window.STATION_ID = 6;</script>
+<script src="player-page.js?v=ishq"></script>
+</body>
+</html>

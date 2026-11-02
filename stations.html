@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" data-station="0">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Choose a Station — Gali FM</title>
+  <meta name="description" content="Seven ambient Indian radio stations. Pick a world, press play, and let the atmosphere do the rest." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css?v=ishq" />
+</head>
+<body class="page-stations">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     NAVIGATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<header class="site-nav site-nav--solid" id="siteNav" role="banner">
+  <div class="nav-inner">
+
+    <a href="index.html" class="nav-logo" aria-label="Gali FM — home">
+      <svg width="22" height="22" viewBox="0 0 28 28" fill="none" aria-hidden="true" class="nav-logo-icon">
+        <circle cx="14" cy="14" r="12" stroke="currentColor" stroke-width="1.5"/>
+        <circle cx="14" cy="14" r="5"  fill="currentColor" opacity="0.25"/>
+        <circle cx="14" cy="14" r="2"  fill="currentColor"/>
+        <line x1="14" y1="2" x2="14" y2="6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <span>Gali <em>FM</em></span>
+    </a>
+
+    <nav class="nav-links" aria-label="Site sections">
+      <a href="index.html#overview"  class="nav-link">Overview</a>
+      <a href="index.html#features"  class="nav-link">Features</a>
+      <a href="index.html#about"     class="nav-link">About</a>
+      <a href="index.html#faq"       class="nav-link">FAQ</a>
+    </nav>
+
+    <div class="nav-actions">
+      <span class="nav-page-label">Stations</span>
+      <button class="nav-hamburger" id="navHamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobileMenu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="mobile-menu" id="mobileMenu" hidden>
+    <a href="index.html#overview" class="mobile-link" data-close-menu>Overview</a>
+    <a href="index.html#features" class="mobile-link" data-close-menu>Features</a>
+    <a href="index.html#about"    class="mobile-link" data-close-menu>About</a>
+    <a href="index.html#faq"      class="mobile-link" data-close-menu>FAQ</a>
+    <a href="index.html"          class="mobile-link" data-close-menu>← Back to home</a>
+  </div>
+</header>
+
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     PAGE HEADER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<section class="stations-hero" aria-labelledby="stations-heading">
+  <div class="container">
+    <span class="label-tag">Seven Worlds</span>
+    <h1 id="stations-heading" class="section-title stations-title">Choose your station</h1>
+    <p class="section-desc">
+      Each station is a place — not a genre tag. Step in, press play,
+      and let the atmosphere do the rest.
+    </p>
+  </div>
+</section>
+
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     SEVEN-COLUMN STATION PANELS
+     (JS injects .sc-col elements into #stationColumns)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<section class="sc-stage" aria-label="Station selection">
+  <div class="sc-columns" id="stationColumns" role="tablist" aria-label="Radio stations">
+    <!-- Populated by stations-app.js buildColumns() -->
+  </div>
+</section>
+
+<audio id="audioEl" preload="metadata" aria-hidden="true"></audio>
+<script src="stations-data.js?v=ishq"></script>
+<script src="stations-app.js?v=ishq"></script>
+</body>
+</html>

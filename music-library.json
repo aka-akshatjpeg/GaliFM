@@ -1,0 +1,5541 @@
+{
+  "stations": {
+    "deluxe-saloon": {
+      "tracks": [
+        {
+          "title": "Tum Mile",
+          "artist": "",
+          "url": "music/deluxe-saloon/1. Tum Mile.mp3"
+        },
+        {
+          "title": "Haan Tu Hain",
+          "artist": "",
+          "url": "music/deluxe-saloon/10. Haan Tu Hain.mp3"
+        },
+        {
+          "title": "Tum Tak (From  Raanjhanaa )",
+          "artist": "",
+          "url": "music/deluxe-saloon/11. Tum Tak (From _Raanjhanaa_).mp3"
+        },
+        {
+          "title": "Guzarish",
+          "artist": "",
+          "url": "music/deluxe-saloon/12. Guzarish.mp3"
+        },
+        {
+          "title": "Mitwa",
+          "artist": "",
+          "url": "music/deluxe-saloon/14. Mitwa.mp3"
+        },
+        {
+          "title": "Mat Aazma Re",
+          "artist": "",
+          "url": "music/deluxe-saloon/15. Mat Aazma Re.mp3"
+        },
+        {
+          "title": "Khuda Jaane",
+          "artist": "",
+          "url": "music/deluxe-saloon/16. Khuda Jaane.mp3"
+        },
+        {
+          "title": "Chor Bazaari",
+          "artist": "",
+          "url": "music/deluxe-saloon/17. Chor Bazaari.mp3"
+        },
+        {
+          "title": "Tujhko Jo Paaya",
+          "artist": "",
+          "url": "music/deluxe-saloon/18. Tujhko Jo Paaya.mp3"
+        },
+        {
+          "title": "Ajj Din Chadheya",
+          "artist": "",
+          "url": "music/deluxe-saloon/19. Ajj Din Chadheya.mp3"
+        },
+        {
+          "title": "Zara Sa",
+          "artist": "",
+          "url": "music/deluxe-saloon/2. Zara Sa.mp3"
+        },
+        {
+          "title": "Jashn E Bahaaraa",
+          "artist": "",
+          "url": "music/deluxe-saloon/20. Jashn-E-Bahaaraa.mp3"
+        },
+        {
+          "title": "Rehnaa Hai Tere Dil Mein",
+          "artist": "",
+          "url": "music/deluxe-saloon/22. Rehnaa Hai Tere Dil Mein.mp3"
+        },
+        {
+          "title": "Bahara",
+          "artist": "",
+          "url": "music/deluxe-saloon/23. Bahara.mp3"
+        },
+        {
+          "title": "Judai",
+          "artist": "",
+          "url": "music/deluxe-saloon/24. Judai.mp3"
+        },
+        {
+          "title": "Iktara",
+          "artist": "",
+          "url": "music/deluxe-saloon/25. Iktara.mp3"
+        },
+        {
+          "title": "Kalank   Title Track",
+          "artist": "",
+          "url": "music/deluxe-saloon/26. Kalank - Title Track.mp3"
+        },
+        {
+          "title": "Mann Mera   Original Version",
+          "artist": "",
+          "url": "music/deluxe-saloon/27. Mann Mera - Original Version.mp3"
+        },
+        {
+          "title": "Dil Kaa Jo Haal Hai",
+          "artist": "",
+          "url": "music/deluxe-saloon/28. Dil Kaa Jo Haal Hai.mp3"
+        },
+        {
+          "title": "Ishq Di Baajiyaan",
+          "artist": "",
+          "url": "music/deluxe-saloon/29. Ishq Di Baajiyaan.mp3"
+        },
+        {
+          "title": "Mere Bina",
+          "artist": "",
+          "url": "music/deluxe-saloon/3. Mere Bina.mp3"
+        },
+        {
+          "title": "Samjhawan",
+          "artist": "",
+          "url": "music/deluxe-saloon/30. Samjhawan.mp3"
+        },
+        {
+          "title": "Sajdaa",
+          "artist": "",
+          "url": "music/deluxe-saloon/31. Sajdaa.mp3"
+        },
+        {
+          "title": "Saathiya",
+          "artist": "",
+          "url": "music/deluxe-saloon/32. Saathiya.mp3"
+        },
+        {
+          "title": "Saibo",
+          "artist": "",
+          "url": "music/deluxe-saloon/33. Saibo.mp3"
+        },
+        {
+          "title": "Teri Ore",
+          "artist": "",
+          "url": "music/deluxe-saloon/34. Teri Ore.mp3"
+        },
+        {
+          "title": "Main Agar Kahoon",
+          "artist": "",
+          "url": "music/deluxe-saloon/35. Main Agar Kahoon.mp3"
+        },
+        {
+          "title": "Bole Chudiyan",
+          "artist": "",
+          "url": "music/deluxe-saloon/36. Bole Chudiyan.mp3"
+        },
+        {
+          "title": "Tu Jaane Na",
+          "artist": "",
+          "url": "music/deluxe-saloon/37. Tu Jaane Na.mp3"
+        },
+        {
+          "title": "O Rangrez",
+          "artist": "",
+          "url": "music/deluxe-saloon/38. O Rangrez.mp3"
+        },
+        {
+          "title": "In Dino",
+          "artist": "",
+          "url": "music/deluxe-saloon/39. In Dino.mp3"
+        },
+        {
+          "title": "Tera Deedar Hua",
+          "artist": "",
+          "url": "music/deluxe-saloon/4. Tera Deedar Hua.mp3"
+        },
+        {
+          "title": "Phir Se Ud Chala",
+          "artist": "",
+          "url": "music/deluxe-saloon/40. Phir Se Ud Chala.mp3"
+        },
+        {
+          "title": "Tum Se Hi",
+          "artist": "",
+          "url": "music/deluxe-saloon/41. Tum Se Hi.mp3"
+        },
+        {
+          "title": "Haule Haule",
+          "artist": "",
+          "url": "music/deluxe-saloon/42. Haule Haule.mp3"
+        },
+        {
+          "title": "Kuchh Khaas",
+          "artist": "",
+          "url": "music/deluxe-saloon/43. Kuchh Khaas.mp3"
+        },
+        {
+          "title": "O Meri Jaan",
+          "artist": "",
+          "url": "music/deluxe-saloon/45. O Meri Jaan.mp3"
+        },
+        {
+          "title": "Desi Girl",
+          "artist": "",
+          "url": "music/deluxe-saloon/46. Desi Girl.mp3"
+        },
+        {
+          "title": "I Hate Luv Storys",
+          "artist": "",
+          "url": "music/deluxe-saloon/47. I Hate Luv Storys.mp3"
+        },
+        {
+          "title": "Wo Ajnabee",
+          "artist": "",
+          "url": "music/deluxe-saloon/48. Wo Ajnabee.mp3"
+        },
+        {
+          "title": "Raabta",
+          "artist": "",
+          "url": "music/deluxe-saloon/49. Raabta.mp3"
+        },
+        {
+          "title": "Mann Mera",
+          "artist": "",
+          "url": "music/deluxe-saloon/5. Mann Mera.mp3"
+        },
+        {
+          "title": "Subha Hone Na De",
+          "artist": "",
+          "url": "music/deluxe-saloon/51. Subha Hone Na De.mp3"
+        },
+        {
+          "title": "Beete Lamhein",
+          "artist": "",
+          "url": "music/deluxe-saloon/52. Beete Lamhein.mp3"
+        },
+        {
+          "title": "Khabar Nahi",
+          "artist": "",
+          "url": "music/deluxe-saloon/53. Khabar Nahi.mp3"
+        },
+        {
+          "title": "Tere Liye",
+          "artist": "",
+          "url": "music/deluxe-saloon/54. Tere Liye.mp3"
+        },
+        {
+          "title": "Pee Loon",
+          "artist": "",
+          "url": "music/deluxe-saloon/55. Pee Loon.mp3"
+        },
+        {
+          "title": "Woh Ladki Hai Kahan",
+          "artist": "",
+          "url": "music/deluxe-saloon/56. Woh Ladki Hai Kahan.mp3"
+        },
+        {
+          "title": "Ajab Si",
+          "artist": "",
+          "url": "music/deluxe-saloon/57. Ajab Si.mp3"
+        },
+        {
+          "title": "Hamari Adhuri Kahani (Title Track)",
+          "artist": "",
+          "url": "music/deluxe-saloon/58. Hamari Adhuri Kahani (Title Track).mp3"
+        },
+        {
+          "title": "Dil Chahta Hai",
+          "artist": "",
+          "url": "music/deluxe-saloon/59. Dil Chahta Hai.mp3"
+        },
+        {
+          "title": "Pee Loon",
+          "artist": "",
+          "url": "music/deluxe-saloon/6. Pee Loon.mp3"
+        },
+        {
+          "title": "Masakali",
+          "artist": "",
+          "url": "music/deluxe-saloon/60. Masakali.mp3"
+        },
+        {
+          "title": "Kuchh Khaas",
+          "artist": "",
+          "url": "music/deluxe-saloon/61. Kuchh Khaas.mp3"
+        },
+        {
+          "title": "Mast Magan",
+          "artist": "",
+          "url": "music/deluxe-saloon/62. Mast Magan.mp3"
+        },
+        {
+          "title": "Piya O Re Piya",
+          "artist": "",
+          "url": "music/deluxe-saloon/63. Piya O Re Piya.mp3"
+        },
+        {
+          "title": "Ye Tune Kya Kiya",
+          "artist": "",
+          "url": "music/deluxe-saloon/64. Ye Tune Kya Kiya.mp3"
+        },
+        {
+          "title": "Dil Diyan Gallan",
+          "artist": "",
+          "url": "music/deluxe-saloon/65. Dil Diyan Gallan.mp3"
+        },
+        {
+          "title": "Toh Phir Aao   Original Version",
+          "artist": "",
+          "url": "music/deluxe-saloon/66. Toh Phir Aao - Original Version.mp3"
+        },
+        {
+          "title": "Tere Bina",
+          "artist": "",
+          "url": "music/deluxe-saloon/7. Tere Bina.mp3"
+        },
+        {
+          "title": "Dil Ibaadat",
+          "artist": "",
+          "url": "music/deluxe-saloon/8. Dil Ibaadat.mp3"
+        },
+        {
+          "title": "Teri Jhuki Nazar",
+          "artist": "",
+          "url": "music/deluxe-saloon/9. Teri Jhuki Nazar.mp3"
+        }
+      ]
+    },
+    "ishq-wali-gali": {
+      "tracks": [
+        {
+          "title": "Tum Mile",
+          "artist": "",
+          "url": "music/deluxe-saloon/1. Tum Mile.mp3"
+        },
+        {
+          "title": "Haan Tu Hain",
+          "artist": "",
+          "url": "music/deluxe-saloon/10. Haan Tu Hain.mp3"
+        },
+        {
+          "title": "Tum Tak (From  Raanjhanaa )",
+          "artist": "",
+          "url": "music/deluxe-saloon/11. Tum Tak (From _Raanjhanaa_).mp3"
+        },
+        {
+          "title": "Guzarish",
+          "artist": "",
+          "url": "music/deluxe-saloon/12. Guzarish.mp3"
+        },
+        {
+          "title": "Mitwa",
+          "artist": "",
+          "url": "music/deluxe-saloon/14. Mitwa.mp3"
+        },
+        {
+          "title": "Mat Aazma Re",
+          "artist": "",
+          "url": "music/deluxe-saloon/15. Mat Aazma Re.mp3"
+        },
+        {
+          "title": "Khuda Jaane",
+          "artist": "",
+          "url": "music/deluxe-saloon/16. Khuda Jaane.mp3"
+        },
+        {
+          "title": "Chor Bazaari",
+          "artist": "",
+          "url": "music/deluxe-saloon/17. Chor Bazaari.mp3"
+        },
+        {
+          "title": "Tujhko Jo Paaya",
+          "artist": "",
+          "url": "music/deluxe-saloon/18. Tujhko Jo Paaya.mp3"
+        },
+        {
+          "title": "Ajj Din Chadheya",
+          "artist": "",
+          "url": "music/deluxe-saloon/19. Ajj Din Chadheya.mp3"
+        },
+        {
+          "title": "Zara Sa",
+          "artist": "",
+          "url": "music/deluxe-saloon/2. Zara Sa.mp3"
+        },
+        {
+          "title": "Jashn E Bahaaraa",
+          "artist": "",
+          "url": "music/deluxe-saloon/20. Jashn-E-Bahaaraa.mp3"
+        },
+        {
+          "title": "Rehnaa Hai Tere Dil Mein",
+          "artist": "",
+          "url": "music/deluxe-saloon/22. Rehnaa Hai Tere Dil Mein.mp3"
+        },
+        {
+          "title": "Bahara",
+          "artist": "",
+          "url": "music/deluxe-saloon/23. Bahara.mp3"
+        },
+        {
+          "title": "Judai",
+          "artist": "",
+          "url": "music/deluxe-saloon/24. Judai.mp3"
+        },
+        {
+          "title": "Iktara",
+          "artist": "",
+          "url": "music/deluxe-saloon/25. Iktara.mp3"
+        },
+        {
+          "title": "Kalank   Title Track",
+          "artist": "",
+          "url": "music/deluxe-saloon/26. Kalank - Title Track.mp3"
+        },
+        {
+          "title": "Mann Mera   Original Version",
+          "artist": "",
+          "url": "music/deluxe-saloon/27. Mann Mera - Original Version.mp3"
+        },
+        {
+          "title": "Dil Kaa Jo Haal Hai",
+          "artist": "",
+          "url": "music/deluxe-saloon/28. Dil Kaa Jo Haal Hai.mp3"
+        },
+        {
+          "title": "Ishq Di Baajiyaan",
+          "artist": "",
+          "url": "music/deluxe-saloon/29. Ishq Di Baajiyaan.mp3"
+        },
+        {
+          "title": "Mere Bina",
+          "artist": "",
+          "url": "music/deluxe-saloon/3. Mere Bina.mp3"
+        },
+        {
+          "title": "Samjhawan",
+          "artist": "",
+          "url": "music/deluxe-saloon/30. Samjhawan.mp3"
+        },
+        {
+          "title": "Sajdaa",
+          "artist": "",
+          "url": "music/deluxe-saloon/31. Sajdaa.mp3"
+        },
+        {
+          "title": "Saathiya",
+          "artist": "",
+          "url": "music/deluxe-saloon/32. Saathiya.mp3"
+        },
+        {
+          "title": "Saibo",
+          "artist": "",
+          "url": "music/deluxe-saloon/33. Saibo.mp3"
+        },
+        {
+          "title": "Teri Ore",
+          "artist": "",
+          "url": "music/deluxe-saloon/34. Teri Ore.mp3"
+        },
+        {
+          "title": "Main Agar Kahoon",
+          "artist": "",
+          "url": "music/deluxe-saloon/35. Main Agar Kahoon.mp3"
+        },
+        {
+          "title": "Bole Chudiyan",
+          "artist": "",
+          "url": "music/deluxe-saloon/36. Bole Chudiyan.mp3"
+        },
+        {
+          "title": "Tu Jaane Na",
+          "artist": "",
+          "url": "music/deluxe-saloon/37. Tu Jaane Na.mp3"
+        },
+        {
+          "title": "O Rangrez",
+          "artist": "",
+          "url": "music/deluxe-saloon/38. O Rangrez.mp3"
+        },
+        {
+          "title": "In Dino",
+          "artist": "",
+          "url": "music/deluxe-saloon/39. In Dino.mp3"
+        },
+        {
+          "title": "Tera Deedar Hua",
+          "artist": "",
+          "url": "music/deluxe-saloon/4. Tera Deedar Hua.mp3"
+        },
+        {
+          "title": "Phir Se Ud Chala",
+          "artist": "",
+          "url": "music/deluxe-saloon/40. Phir Se Ud Chala.mp3"
+        },
+        {
+          "title": "Tum Se Hi",
+          "artist": "",
+          "url": "music/deluxe-saloon/41. Tum Se Hi.mp3"
+        },
+        {
+          "title": "Haule Haule",
+          "artist": "",
+          "url": "music/deluxe-saloon/42. Haule Haule.mp3"
+        },
+        {
+          "title": "Kuchh Khaas",
+          "artist": "",
+          "url": "music/deluxe-saloon/43. Kuchh Khaas.mp3"
+        },
+        {
+          "title": "O Meri Jaan",
+          "artist": "",
+          "url": "music/deluxe-saloon/45. O Meri Jaan.mp3"
+        },
+        {
+          "title": "Desi Girl",
+          "artist": "",
+          "url": "music/deluxe-saloon/46. Desi Girl.mp3"
+        },
+        {
+          "title": "I Hate Luv Storys",
+          "artist": "",
+          "url": "music/deluxe-saloon/47. I Hate Luv Storys.mp3"
+        },
+        {
+          "title": "Wo Ajnabee",
+          "artist": "",
+          "url": "music/deluxe-saloon/48. Wo Ajnabee.mp3"
+        },
+        {
+          "title": "Raabta",
+          "artist": "",
+          "url": "music/deluxe-saloon/49. Raabta.mp3"
+        },
+        {
+          "title": "Mann Mera",
+          "artist": "",
+          "url": "music/deluxe-saloon/5. Mann Mera.mp3"
+        },
+        {
+          "title": "Subha Hone Na De",
+          "artist": "",
+          "url": "music/deluxe-saloon/51. Subha Hone Na De.mp3"
+        },
+        {
+          "title": "Beete Lamhein",
+          "artist": "",
+          "url": "music/deluxe-saloon/52. Beete Lamhein.mp3"
+        },
+        {
+          "title": "Khabar Nahi",
+          "artist": "",
+          "url": "music/deluxe-saloon/53. Khabar Nahi.mp3"
+        },
+        {
+          "title": "Tere Liye",
+          "artist": "",
+          "url": "music/deluxe-saloon/54. Tere Liye.mp3"
+        },
+        {
+          "title": "Pee Loon",
+          "artist": "",
+          "url": "music/deluxe-saloon/55. Pee Loon.mp3"
+        },
+        {
+          "title": "Woh Ladki Hai Kahan",
+          "artist": "",
+          "url": "music/deluxe-saloon/56. Woh Ladki Hai Kahan.mp3"
+        },
+        {
+          "title": "Ajab Si",
+          "artist": "",
+          "url": "music/deluxe-saloon/57. Ajab Si.mp3"
+        },
+        {
+          "title": "Hamari Adhuri Kahani (Title Track)",
+          "artist": "",
+          "url": "music/deluxe-saloon/58. Hamari Adhuri Kahani (Title Track).mp3"
+        },
+        {
+          "title": "Dil Chahta Hai",
+          "artist": "",
+          "url": "music/deluxe-saloon/59. Dil Chahta Hai.mp3"
+        },
+        {
+          "title": "Pee Loon",
+          "artist": "",
+          "url": "music/deluxe-saloon/6. Pee Loon.mp3"
+        },
+        {
+          "title": "Masakali",
+          "artist": "",
+          "url": "music/deluxe-saloon/60. Masakali.mp3"
+        },
+        {
+          "title": "Kuchh Khaas",
+          "artist": "",
+          "url": "music/deluxe-saloon/61. Kuchh Khaas.mp3"
+        },
+        {
+          "title": "Mast Magan",
+          "artist": "",
+          "url": "music/deluxe-saloon/62. Mast Magan.mp3"
+        },
+        {
+          "title": "Piya O Re Piya",
+          "artist": "",
+          "url": "music/deluxe-saloon/63. Piya O Re Piya.mp3"
+        },
+        {
+          "title": "Ye Tune Kya Kiya",
+          "artist": "",
+          "url": "music/deluxe-saloon/64. Ye Tune Kya Kiya.mp3"
+        },
+        {
+          "title": "Dil Diyan Gallan",
+          "artist": "",
+          "url": "music/deluxe-saloon/65. Dil Diyan Gallan.mp3"
+        },
+        {
+          "title": "Toh Phir Aao   Original Version",
+          "artist": "",
+          "url": "music/deluxe-saloon/66. Toh Phir Aao - Original Version.mp3"
+        },
+        {
+          "title": "Tere Bina",
+          "artist": "",
+          "url": "music/deluxe-saloon/7. Tere Bina.mp3"
+        },
+        {
+          "title": "Dil Ibaadat",
+          "artist": "",
+          "url": "music/deluxe-saloon/8. Dil Ibaadat.mp3"
+        },
+        {
+          "title": "Teri Jhuki Nazar",
+          "artist": "",
+          "url": "music/deluxe-saloon/9. Teri Jhuki Nazar.mp3"
+        }
+      ]
+    },
+    "bus-driver": {
+      "tracks": [
+        {
+          "title": "Bahut Pyar Karte Hai   Female Version",
+          "artist": "",
+          "url": "music/bus-driver/1. Bahut Pyar Karte Hai - Female Version.mp3"
+        },
+        {
+          "title": "Dil Laga Liya Maine",
+          "artist": "",
+          "url": "music/bus-driver/10. Dil Laga Liya Maine.mp3"
+        },
+        {
+          "title": "Raah Mein Unse Mulaqat",
+          "artist": "",
+          "url": "music/bus-driver/11. Raah Mein Unse Mulaqat.mp3"
+        },
+        {
+          "title": "To Chalun",
+          "artist": "",
+          "url": "music/bus-driver/12. To Chalun.mp3"
+        },
+        {
+          "title": "Baazigar O Baazigar (From  Baazigar )",
+          "artist": "",
+          "url": "music/bus-driver/13. Baazigar O Baazigar (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Ae Mere Humsafar",
+          "artist": "",
+          "url": "music/bus-driver/14. Ae Mere Humsafar.mp3"
+        },
+        {
+          "title": "Ae Kash Ke Hum",
+          "artist": "",
+          "url": "music/bus-driver/15. Ae Kash Ke Hum.mp3"
+        },
+        {
+          "title": "Aawara Hawa Ka Jhonka Hoon",
+          "artist": "",
+          "url": "music/bus-driver/16. Aawara Hawa Ka Jhonka Hoon.mp3"
+        },
+        {
+          "title": "Dheere Dheere Se Meri Zindagi Mein Aana (From  Aashiqui )",
+          "artist": "",
+          "url": "music/bus-driver/17. Dheere Dheere Se Meri Zindagi Mein Aana (From _Aashiqui_).mp3"
+        },
+        {
+          "title": "Pardesi Pardesi",
+          "artist": "",
+          "url": "music/bus-driver/18. Pardesi Pardesi.mp3"
+        },
+        {
+          "title": "Dulhe Ka Sehra   Male Version",
+          "artist": "",
+          "url": "music/bus-driver/19. Dulhe Ka Sehra - Male Version.mp3"
+        },
+        {
+          "title": "Too Shayar Hai Main Teri Shayari (From  Saajan )",
+          "artist": "",
+          "url": "music/bus-driver/2. Too Shayar Hai Main Teri Shayari (From _Saajan_).mp3"
+        },
+        {
+          "title": "Ladki Badi Anjani Hai",
+          "artist": "",
+          "url": "music/bus-driver/20. Ladki Badi Anjani Hai.mp3"
+        },
+        {
+          "title": "Chhupana Bhi Nahin Aata Vinod Rathod (From  Baazigar )",
+          "artist": "",
+          "url": "music/bus-driver/21. Chhupana Bhi Nahin Aata Vinod Rathod (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Humko Sirf Tumse",
+          "artist": "",
+          "url": "music/bus-driver/22. Humko Sirf Tumse.mp3"
+        },
+        {
+          "title": "Pehli Pehli Baar Mohabbat Ki Hai (From  Sirf Tum )",
+          "artist": "",
+          "url": "music/bus-driver/23. Pehli Pehli Baar Mohabbat Ki Hai (From _Sirf Tum_).mp3"
+        },
+        {
+          "title": "Husn Hai Suhana",
+          "artist": "",
+          "url": "music/bus-driver/24. Husn Hai Suhana.mp3"
+        },
+        {
+          "title": "Aapke Pyaar Mein Hum",
+          "artist": "",
+          "url": "music/bus-driver/25. Aapke Pyaar Mein Hum.mp3"
+        },
+        {
+          "title": "Na Kajare Ki Dhar",
+          "artist": "",
+          "url": "music/bus-driver/26. Na Kajare Ki Dhar.mp3"
+        },
+        {
+          "title": "Tum To Thehre Pardesi",
+          "artist": "",
+          "url": "music/bus-driver/27. Tum To Thehre Pardesi.mp3"
+        },
+        {
+          "title": "Chaaha Hai Tujhko",
+          "artist": "",
+          "url": "music/bus-driver/28. Chaaha Hai Tujhko.mp3"
+        },
+        {
+          "title": "Zindagi Ban Gaye Ho Tum",
+          "artist": "",
+          "url": "music/bus-driver/29. Zindagi Ban Gaye Ho Tum.mp3"
+        },
+        {
+          "title": "Kitaben Bahut Si (From  Baazigar )",
+          "artist": "",
+          "url": "music/bus-driver/3. Kitaben Bahut Si (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Main Agar Saamne",
+          "artist": "",
+          "url": "music/bus-driver/30. Main Agar Saamne.mp3"
+        },
+        {
+          "title": "Jo Bhi Kasmein",
+          "artist": "",
+          "url": "music/bus-driver/31. Jo Bhi Kasmein.mp3"
+        },
+        {
+          "title": "Tip Tip Barsa Paani (From  Mohra )",
+          "artist": "",
+          "url": "music/bus-driver/32. Tip Tip Barsa Paani (From _Mohra_).mp3"
+        },
+        {
+          "title": "Mohabbat Ho Na Jaye   Dekha Jo Tumko",
+          "artist": "",
+          "url": "music/bus-driver/33. Mohabbat Ho Na Jaye - Dekha Jo Tumko.mp3"
+        },
+        {
+          "title": "Tumsa Koi Pyaara",
+          "artist": "",
+          "url": "music/bus-driver/34. Tumsa Koi Pyaara.mp3"
+        },
+        {
+          "title": "Tum Dil Ki Dhadkan Mein (From  Dhadkan )",
+          "artist": "",
+          "url": "music/bus-driver/35. Tum Dil Ki Dhadkan Mein (From _Dhadkan_).mp3"
+        },
+        {
+          "title": "Is Tarah Aashiqui Ka   Kumar Sanu Version",
+          "artist": "",
+          "url": "music/bus-driver/36. Is Tarah Aashiqui Ka - Kumar Sanu Version.mp3"
+        },
+        {
+          "title": "Tumhein Apna Banane Ki Kasam Khai Hai",
+          "artist": "",
+          "url": "music/bus-driver/37. Tumhein Apna Banane Ki Kasam Khai Hai.mp3"
+        },
+        {
+          "title": "Tu Pyar Hai Kisi Aur Ka",
+          "artist": "",
+          "url": "music/bus-driver/38. Tu Pyar Hai Kisi Aur Ka.mp3"
+        },
+        {
+          "title": "Tumse Milne Ki Tamanna Hai",
+          "artist": "",
+          "url": "music/bus-driver/39. Tumse Milne Ki Tamanna Hai.mp3"
+        },
+        {
+          "title": "Tera Naam Liya",
+          "artist": "",
+          "url": "music/bus-driver/4. Tera Naam Liya.mp3"
+        },
+        {
+          "title": "Aisi Deewangi (From  Deewana )",
+          "artist": "",
+          "url": "music/bus-driver/40. Aisi Deewangi (From _Deewana_).mp3"
+        },
+        {
+          "title": "Akeli Na Bazar Jaya Karo",
+          "artist": "",
+          "url": "music/bus-driver/41. Akeli Na Bazar Jaya Karo.mp3"
+        },
+        {
+          "title": "Gazab Ka Hai Din",
+          "artist": "",
+          "url": "music/bus-driver/42. Gazab Ka Hai Din.mp3"
+        },
+        {
+          "title": "Love Tujhe Love Main Karta",
+          "artist": "",
+          "url": "music/bus-driver/5. Love Tujhe Love Main Karta.mp3"
+        },
+        {
+          "title": "Chura Ke Dil Mera",
+          "artist": "",
+          "url": "music/bus-driver/6. Chura Ke Dil Mera.mp3"
+        },
+        {
+          "title": "Tere Dar Par Sanam   Male Version",
+          "artist": "",
+          "url": "music/bus-driver/7. Tere Dar Par Sanam - Male Version.mp3"
+        },
+        {
+          "title": "Sochenge Tumhe Pyar (From  Deewana )",
+          "artist": "",
+          "url": "music/bus-driver/8. Sochenge Tumhe Pyar (From _Deewana_).mp3"
+        },
+        {
+          "title": "Aaye Ho Meri Zindagi Mein   Male Version",
+          "artist": "",
+          "url": "music/bus-driver/9. Aaye Ho Meri Zindagi Mein - Male Version.mp3"
+        }
+      ]
+    },
+    "bus-wale-bhaiya": {
+      "tracks": [
+        {
+          "title": "Bahut Pyar Karte Hai   Female Version",
+          "artist": "",
+          "url": "music/bus-driver/1. Bahut Pyar Karte Hai - Female Version.mp3"
+        },
+        {
+          "title": "Dil Laga Liya Maine",
+          "artist": "",
+          "url": "music/bus-driver/10. Dil Laga Liya Maine.mp3"
+        },
+        {
+          "title": "Raah Mein Unse Mulaqat",
+          "artist": "",
+          "url": "music/bus-driver/11. Raah Mein Unse Mulaqat.mp3"
+        },
+        {
+          "title": "To Chalun",
+          "artist": "",
+          "url": "music/bus-driver/12. To Chalun.mp3"
+        },
+        {
+          "title": "Baazigar O Baazigar (From  Baazigar )",
+          "artist": "",
+          "url": "music/bus-driver/13. Baazigar O Baazigar (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Ae Mere Humsafar",
+          "artist": "",
+          "url": "music/bus-driver/14. Ae Mere Humsafar.mp3"
+        },
+        {
+          "title": "Ae Kash Ke Hum",
+          "artist": "",
+          "url": "music/bus-driver/15. Ae Kash Ke Hum.mp3"
+        },
+        {
+          "title": "Aawara Hawa Ka Jhonka Hoon",
+          "artist": "",
+          "url": "music/bus-driver/16. Aawara Hawa Ka Jhonka Hoon.mp3"
+        },
+        {
+          "title": "Dheere Dheere Se Meri Zindagi Mein Aana (From  Aashiqui )",
+          "artist": "",
+          "url": "music/bus-driver/17. Dheere Dheere Se Meri Zindagi Mein Aana (From _Aashiqui_).mp3"
+        },
+        {
+          "title": "Pardesi Pardesi",
+          "artist": "",
+          "url": "music/bus-driver/18. Pardesi Pardesi.mp3"
+        },
+        {
+          "title": "Dulhe Ka Sehra   Male Version",
+          "artist": "",
+          "url": "music/bus-driver/19. Dulhe Ka Sehra - Male Version.mp3"
+        },
+        {
+          "title": "Too Shayar Hai Main Teri Shayari (From  Saajan )",
+          "artist": "",
+          "url": "music/bus-driver/2. Too Shayar Hai Main Teri Shayari (From _Saajan_).mp3"
+        },
+        {
+          "title": "Ladki Badi Anjani Hai",
+          "artist": "",
+          "url": "music/bus-driver/20. Ladki Badi Anjani Hai.mp3"
+        },
+        {
+          "title": "Chhupana Bhi Nahin Aata Vinod Rathod (From  Baazigar )",
+          "artist": "",
+          "url": "music/bus-driver/21. Chhupana Bhi Nahin Aata Vinod Rathod (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Humko Sirf Tumse",
+          "artist": "",
+          "url": "music/bus-driver/22. Humko Sirf Tumse.mp3"
+        },
+        {
+          "title": "Pehli Pehli Baar Mohabbat Ki Hai (From  Sirf Tum )",
+          "artist": "",
+          "url": "music/bus-driver/23. Pehli Pehli Baar Mohabbat Ki Hai (From _Sirf Tum_).mp3"
+        },
+        {
+          "title": "Husn Hai Suhana",
+          "artist": "",
+          "url": "music/bus-driver/24. Husn Hai Suhana.mp3"
+        },
+        {
+          "title": "Aapke Pyaar Mein Hum",
+          "artist": "",
+          "url": "music/bus-driver/25. Aapke Pyaar Mein Hum.mp3"
+        },
+        {
+          "title": "Na Kajare Ki Dhar",
+          "artist": "",
+          "url": "music/bus-driver/26. Na Kajare Ki Dhar.mp3"
+        },
+        {
+          "title": "Tum To Thehre Pardesi",
+          "artist": "",
+          "url": "music/bus-driver/27. Tum To Thehre Pardesi.mp3"
+        },
+        {
+          "title": "Chaaha Hai Tujhko",
+          "artist": "",
+          "url": "music/bus-driver/28. Chaaha Hai Tujhko.mp3"
+        },
+        {
+          "title": "Zindagi Ban Gaye Ho Tum",
+          "artist": "",
+          "url": "music/bus-driver/29. Zindagi Ban Gaye Ho Tum.mp3"
+        },
+        {
+          "title": "Kitaben Bahut Si (From  Baazigar )",
+          "artist": "",
+          "url": "music/bus-driver/3. Kitaben Bahut Si (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Main Agar Saamne",
+          "artist": "",
+          "url": "music/bus-driver/30. Main Agar Saamne.mp3"
+        },
+        {
+          "title": "Jo Bhi Kasmein",
+          "artist": "",
+          "url": "music/bus-driver/31. Jo Bhi Kasmein.mp3"
+        },
+        {
+          "title": "Tip Tip Barsa Paani (From  Mohra )",
+          "artist": "",
+          "url": "music/bus-driver/32. Tip Tip Barsa Paani (From _Mohra_).mp3"
+        },
+        {
+          "title": "Mohabbat Ho Na Jaye   Dekha Jo Tumko",
+          "artist": "",
+          "url": "music/bus-driver/33. Mohabbat Ho Na Jaye - Dekha Jo Tumko.mp3"
+        },
+        {
+          "title": "Tumsa Koi Pyaara",
+          "artist": "",
+          "url": "music/bus-driver/34. Tumsa Koi Pyaara.mp3"
+        },
+        {
+          "title": "Tum Dil Ki Dhadkan Mein (From  Dhadkan )",
+          "artist": "",
+          "url": "music/bus-driver/35. Tum Dil Ki Dhadkan Mein (From _Dhadkan_).mp3"
+        },
+        {
+          "title": "Is Tarah Aashiqui Ka   Kumar Sanu Version",
+          "artist": "",
+          "url": "music/bus-driver/36. Is Tarah Aashiqui Ka - Kumar Sanu Version.mp3"
+        },
+        {
+          "title": "Tumhein Apna Banane Ki Kasam Khai Hai",
+          "artist": "",
+          "url": "music/bus-driver/37. Tumhein Apna Banane Ki Kasam Khai Hai.mp3"
+        },
+        {
+          "title": "Tu Pyar Hai Kisi Aur Ka",
+          "artist": "",
+          "url": "music/bus-driver/38. Tu Pyar Hai Kisi Aur Ka.mp3"
+        },
+        {
+          "title": "Tumse Milne Ki Tamanna Hai",
+          "artist": "",
+          "url": "music/bus-driver/39. Tumse Milne Ki Tamanna Hai.mp3"
+        },
+        {
+          "title": "Tera Naam Liya",
+          "artist": "",
+          "url": "music/bus-driver/4. Tera Naam Liya.mp3"
+        },
+        {
+          "title": "Aisi Deewangi (From  Deewana )",
+          "artist": "",
+          "url": "music/bus-driver/40. Aisi Deewangi (From _Deewana_).mp3"
+        },
+        {
+          "title": "Akeli Na Bazar Jaya Karo",
+          "artist": "",
+          "url": "music/bus-driver/41. Akeli Na Bazar Jaya Karo.mp3"
+        },
+        {
+          "title": "Gazab Ka Hai Din",
+          "artist": "",
+          "url": "music/bus-driver/42. Gazab Ka Hai Din.mp3"
+        },
+        {
+          "title": "Love Tujhe Love Main Karta",
+          "artist": "",
+          "url": "music/bus-driver/5. Love Tujhe Love Main Karta.mp3"
+        },
+        {
+          "title": "Chura Ke Dil Mera",
+          "artist": "",
+          "url": "music/bus-driver/6. Chura Ke Dil Mera.mp3"
+        },
+        {
+          "title": "Tere Dar Par Sanam   Male Version",
+          "artist": "",
+          "url": "music/bus-driver/7. Tere Dar Par Sanam - Male Version.mp3"
+        },
+        {
+          "title": "Sochenge Tumhe Pyar (From  Deewana )",
+          "artist": "",
+          "url": "music/bus-driver/8. Sochenge Tumhe Pyar (From _Deewana_).mp3"
+        },
+        {
+          "title": "Aaye Ho Meri Zindagi Mein   Male Version",
+          "artist": "",
+          "url": "music/bus-driver/9. Aaye Ho Meri Zindagi Mein - Male Version.mp3"
+        }
+      ]
+    },
+    "bhojpuri-bangers": {
+      "tracks": [
+        {
+          "title": "Hind Ke Sitara",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/1. Hind Ke Sitara.mp3"
+        },
+        {
+          "title": "Rajaji Ke Dilwa",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/10. Rajaji Ke Dilwa.mp3"
+        },
+        {
+          "title": "Laundiyabaaz",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/100. Laundiyabaaz.mp3"
+        },
+        {
+          "title": "Piyar Farak Wali",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/11. Piyar Farak Wali.mp3"
+        },
+        {
+          "title": "Pagli Dekhave Agarbatti",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/12. Pagli Dekhave Agarbatti.mp3"
+        },
+        {
+          "title": "Bagalwali Jaan Maareli",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/13. Bagalwali Jaan Maareli.mp3"
+        },
+        {
+          "title": "Tikuliya Ae Raja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/14. Tikuliya Ae Raja.mp3"
+        },
+        {
+          "title": "Panche Ke Nache Aiha",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/15. Panche Ke Nache Aiha.mp3"
+        },
+        {
+          "title": "Ehi Khaatir Aara Aile",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/16. Ehi Khaatir Aara Aile.mp3"
+        },
+        {
+          "title": "Raja Ji",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/17. Raja Ji.mp3"
+        },
+        {
+          "title": "Falana Bo Farar Bhaili",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/18. Falana Bo Farar Bhaili.mp3"
+        },
+        {
+          "title": "Chapa Dhan Ho",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/19. Chapa Dhan Ho.mp3"
+        },
+        {
+          "title": "Jiya Tu",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/2. Jiya Tu.mp3"
+        },
+        {
+          "title": "Dhani Ho Sab Dhan",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/20. Dhani Ho Sab Dhan.mp3"
+        },
+        {
+          "title": "Palang Sagwan Ke   From  Doli Saja Ke Rakhna",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/21. Palang Sagwan Ke - From _Doli Saja Ke Rakhna_.mp3"
+        },
+        {
+          "title": "Goriya Chaal Tohar Matwali   From  Bhojpuriya Raja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/22. Goriya Chaal Tohar Matwali - From _Bhojpuriya Raja_.mp3"
+        },
+        {
+          "title": "Chhalakata Hamro Jawaniya   From  Bhojpuriya Raja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/23. Chhalakata Hamro Jawaniya - From _Bhojpuriya Raja_.mp3"
+        },
+        {
+          "title": "Ho Gori Sanch Hu Tu Jannat Ke Hoor (From  Doli Chadh Ke Dulhin Sasurar Chalali )",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/24. Ho Gori Sanch Hu Tu Jannat Ke Hoor (From _Doli Chadh Ke Dulhin Sasurar Chalali_).mp3"
+        },
+        {
+          "title": "Hum Haeen Piya Ji Ke Patar Tiriywa   From  Patna Se Pakistan",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/25. Hum Haeen Piya Ji Ke Patar Tiriywa - From _Patna Se Pakistan_.mp3"
+        },
+        {
+          "title": "Laundiya London Se Layenge",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/26. Laundiya London Se Layenge.mp3"
+        },
+        {
+          "title": "Ganna Ke Ras",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/27. Ganna Ke Ras.mp3"
+        },
+        {
+          "title": "Saj Ke Sawar Ke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/28. Saj Ke Sawar Ke.mp3"
+        },
+        {
+          "title": "Hook Raja Ji",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/29. Hook Raja Ji.mp3"
+        },
+        {
+          "title": "Lolly Pop Lageli",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/3. Lolly Pop Lageli.mp3"
+        },
+        {
+          "title": "Raja Raja Raja Kareja Mein Samaja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/30. Raja Raja Raja Kareja Mein Samaja.mp3"
+        },
+        {
+          "title": "Sorry Sorry   From  Bhojpuriya Raja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/31. Sorry Sorry - From _Bhojpuriya Raja_.mp3"
+        },
+        {
+          "title": "Heroine",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/32. Heroine.mp3"
+        },
+        {
+          "title": "Maroon Color Sadiya   From  Fasal",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/33. Maroon Color Sadiya - From _Fasal_.mp3"
+        },
+        {
+          "title": "Maaja Milela Na Pura",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/34. Maaja Milela Na Pura.mp3"
+        },
+        {
+          "title": "Dilwa Mangele Gamcha Bichayike",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/35. Dilwa Mangele Gamcha Bichayike.mp3"
+        },
+        {
+          "title": "Prashasan",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/36. Prashasan.mp3"
+        },
+        {
+          "title": "Lehanga Utha Dem Remote Se",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/37. Lehanga Utha Dem Remote Se.mp3"
+        },
+        {
+          "title": "Hamke Dulhin Banala",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/38. Hamke Dulhin Banala.mp3"
+        },
+        {
+          "title": "Apne Lover Ko Dhokha Do",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/39. Apne Lover Ko Dhokha Do.mp3"
+        },
+        {
+          "title": "Chat Deni Maar Deli",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/4. Chat Deni Maar Deli.mp3"
+        },
+        {
+          "title": "Bullet Pa Jija",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/40. Bullet Pa Jija.mp3"
+        },
+        {
+          "title": "Piya Ji Ke Muski   From  Doli Saja Ke Rakhna",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/41. Piya Ji Ke Muski - From _Doli Saja Ke Rakhna_.mp3"
+        },
+        {
+          "title": "Raate Diya Buta Ke Piya Kya Kya Kiya",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/42. Raate Diya Buta Ke Piya Kya Kya Kiya.mp3"
+        },
+        {
+          "title": "Naach Re Patarki 2.0",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/43. Naach Re Patarki 2.0.mp3"
+        },
+        {
+          "title": "Godi Me Leke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/44. Godi Me Leke.mp3"
+        },
+        {
+          "title": "Lehnga Luckhnaowa",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/46. Lehnga Luckhnaowa.mp3"
+        },
+        {
+          "title": "Bahe Jab Jab Purvaiya Ho",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/47. Bahe Jab Jab Purvaiya Ho.mp3"
+        },
+        {
+          "title": "Aaho Raja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/48. Aaho Raja.mp3"
+        },
+        {
+          "title": "Lagelu Jahar",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/49. Lagelu Jahar.mp3"
+        },
+        {
+          "title": "Mehraru Milal Gaay",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/5. Mehraru Milal Gaay.mp3"
+        },
+        {
+          "title": "Latak Jaiba",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/50. Latak Jaiba.mp3"
+        },
+        {
+          "title": "Naach Re Patarki 2.0",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/51. Naach Re Patarki 2.0.mp3"
+        },
+        {
+          "title": "Eka Karelu",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/52. Eka Karelu.mp3"
+        },
+        {
+          "title": "Balma Kadar Na Jane",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/53. Balma Kadar Na Jane.mp3"
+        },
+        {
+          "title": "Nimbu Kharbuja Bhail 2",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/54. Nimbu Kharbuja Bhail 2.mp3"
+        },
+        {
+          "title": "Nathuniya Pe Goli Maare",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/55. Nathuniya Pe Goli Maare.mp3"
+        },
+        {
+          "title": "Hamar Vala Have",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/56. Hamar Vala Have.mp3"
+        },
+        {
+          "title": "Kajra Mohabbat Wala",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/57. Kajra Mohabbat Wala.mp3"
+        },
+        {
+          "title": "Kamar Damage",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/58. Kamar Damage.mp3"
+        },
+        {
+          "title": "Marad Ha Matha Ke Darad",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/59. Marad Ha Matha Ke Darad.mp3"
+        },
+        {
+          "title": "Laal Ghaghra",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/6. Laal Ghaghra.mp3"
+        },
+        {
+          "title": "Latak Jaiba",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/60. Latak Jaiba.mp3"
+        },
+        {
+          "title": "Godi Me Leke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/61. Godi Me Leke.mp3"
+        },
+        {
+          "title": "Chit Badli Khiya Ke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/62. Chit Badli Khiya Ke.mp3"
+        },
+        {
+          "title": "Sarso Ke Sagiya   From  Mehandi Laga Ke Rakhna",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/63. Sarso Ke Sagiya - From _Mehandi Laga Ke Rakhna_.mp3"
+        },
+        {
+          "title": "Hum Haeen Piya Ji Ke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/64. Hum Haeen Piya Ji Ke.mp3"
+        },
+        {
+          "title": "Ohi Re Jagahiya",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/65. Ohi Re Jagahiya.mp3"
+        },
+        {
+          "title": "Kabootar Baaz",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/66. Kabootar Baaz.mp3"
+        },
+        {
+          "title": "Salai Ke Tili",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/67. Salai Ke Tili.mp3"
+        },
+        {
+          "title": "Saiyan Ji Dilwa Mangele Gamcha Bichai Ke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/68. Saiyan Ji Dilwa Mangele Gamcha Bichai Ke.mp3"
+        },
+        {
+          "title": "Naach Re Patarki",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/69. Naach Re Patarki.mp3"
+        },
+        {
+          "title": "Heroine",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/7. Heroine.mp3"
+        },
+        {
+          "title": "Dhodi Se Shurwat",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/70. Dhodi Se Shurwat.mp3"
+        },
+        {
+          "title": "Kamariya Ka Jhatka",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/71. Kamariya Ka Jhatka.mp3"
+        },
+        {
+          "title": "Ghaghari",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/72. Ghaghari.mp3"
+        },
+        {
+          "title": "Chadhal Jawani Rasgulla",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/73. Chadhal Jawani Rasgulla.mp3"
+        },
+        {
+          "title": "Pistol",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/74. Pistol.mp3"
+        },
+        {
+          "title": "Kariya Blouse",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/75. Kariya Blouse.mp3"
+        },
+        {
+          "title": "Arrah Ballia Chhapra",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/76. Arrah Ballia Chhapra.mp3"
+        },
+        {
+          "title": "Najare Me Kajare Ban Ke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/77. Najare Me Kajare Ban Ke.mp3"
+        },
+        {
+          "title": "Licensee",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/78. Licensee.mp3"
+        },
+        {
+          "title": "Patna Ki Pari",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/79. Patna Ki Pari.mp3"
+        },
+        {
+          "title": "Hari Hari Odhani",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/8. Hari Hari Odhani.mp3"
+        },
+        {
+          "title": "Kamariya",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/80. Kamariya.mp3"
+        },
+        {
+          "title": "Jira Jawayin Ayichath Bani",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/82. Jira Jawayin Ayichath Bani.mp3"
+        },
+        {
+          "title": "Chhuwa Dena Kamar",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/83. Chhuwa Dena Kamar.mp3"
+        },
+        {
+          "title": "Billo Rani",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/84. Billo Rani.mp3"
+        },
+        {
+          "title": "Do Ghoont   Bhojpuri",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/85. Do Ghoont - Bhojpuri.mp3"
+        },
+        {
+          "title": "Aara Ke Haveli",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/86. Aara Ke Haveli.mp3"
+        },
+        {
+          "title": "Kamariya Par Case",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/88. Kamariya Par Case.mp3"
+        },
+        {
+          "title": "Daaru Bhail Jawani",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/89. Daaru Bhail Jawani.mp3"
+        },
+        {
+          "title": "Kamariya Dole",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/9. Kamariya Dole.mp3"
+        },
+        {
+          "title": "Kamar Ke Nilami",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/90. Kamar Ke Nilami.mp3"
+        },
+        {
+          "title": "Kamar Dabaadi",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/91. Kamar Dabaadi.mp3"
+        },
+        {
+          "title": "Dole Da Kamariya",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/92. Dole Da Kamariya.mp3"
+        },
+        {
+          "title": "Jhaal",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/93. Jhaal.mp3"
+        },
+        {
+          "title": "Hamar Lekha Marad",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/94. Hamar Lekha Marad.mp3"
+        },
+        {
+          "title": "Sata Sati",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/95. Sata Sati.mp3"
+        },
+        {
+          "title": "Kharbuja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/96. Kharbuja.mp3"
+        },
+        {
+          "title": "Penhi Ke Naach Ghoonghroo",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/97. Penhi Ke Naach Ghoonghroo.mp3"
+        },
+        {
+          "title": "Ketna Me Kamar Hilaibu",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/98. Ketna Me Kamar Hilaibu.mp3"
+        },
+        {
+          "title": "Gahir Aapan Dhoriya",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/99. Gahir Aapan Dhoriya.mp3"
+        }
+      ]
+    },
+    "bhojpuri-bawaal": {
+      "tracks": [
+        {
+          "title": "Hind Ke Sitara",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/1. Hind Ke Sitara.mp3"
+        },
+        {
+          "title": "Rajaji Ke Dilwa",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/10. Rajaji Ke Dilwa.mp3"
+        },
+        {
+          "title": "Laundiyabaaz",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/100. Laundiyabaaz.mp3"
+        },
+        {
+          "title": "Piyar Farak Wali",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/11. Piyar Farak Wali.mp3"
+        },
+        {
+          "title": "Pagli Dekhave Agarbatti",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/12. Pagli Dekhave Agarbatti.mp3"
+        },
+        {
+          "title": "Bagalwali Jaan Maareli",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/13. Bagalwali Jaan Maareli.mp3"
+        },
+        {
+          "title": "Tikuliya Ae Raja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/14. Tikuliya Ae Raja.mp3"
+        },
+        {
+          "title": "Panche Ke Nache Aiha",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/15. Panche Ke Nache Aiha.mp3"
+        },
+        {
+          "title": "Ehi Khaatir Aara Aile",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/16. Ehi Khaatir Aara Aile.mp3"
+        },
+        {
+          "title": "Raja Ji",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/17. Raja Ji.mp3"
+        },
+        {
+          "title": "Falana Bo Farar Bhaili",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/18. Falana Bo Farar Bhaili.mp3"
+        },
+        {
+          "title": "Chapa Dhan Ho",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/19. Chapa Dhan Ho.mp3"
+        },
+        {
+          "title": "Jiya Tu",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/2. Jiya Tu.mp3"
+        },
+        {
+          "title": "Dhani Ho Sab Dhan",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/20. Dhani Ho Sab Dhan.mp3"
+        },
+        {
+          "title": "Palang Sagwan Ke   From  Doli Saja Ke Rakhna",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/21. Palang Sagwan Ke - From _Doli Saja Ke Rakhna_.mp3"
+        },
+        {
+          "title": "Goriya Chaal Tohar Matwali   From  Bhojpuriya Raja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/22. Goriya Chaal Tohar Matwali - From _Bhojpuriya Raja_.mp3"
+        },
+        {
+          "title": "Chhalakata Hamro Jawaniya   From  Bhojpuriya Raja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/23. Chhalakata Hamro Jawaniya - From _Bhojpuriya Raja_.mp3"
+        },
+        {
+          "title": "Ho Gori Sanch Hu Tu Jannat Ke Hoor (From  Doli Chadh Ke Dulhin Sasurar Chalali )",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/24. Ho Gori Sanch Hu Tu Jannat Ke Hoor (From _Doli Chadh Ke Dulhin Sasurar Chalali_).mp3"
+        },
+        {
+          "title": "Hum Haeen Piya Ji Ke Patar Tiriywa   From  Patna Se Pakistan",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/25. Hum Haeen Piya Ji Ke Patar Tiriywa - From _Patna Se Pakistan_.mp3"
+        },
+        {
+          "title": "Laundiya London Se Layenge",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/26. Laundiya London Se Layenge.mp3"
+        },
+        {
+          "title": "Ganna Ke Ras",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/27. Ganna Ke Ras.mp3"
+        },
+        {
+          "title": "Saj Ke Sawar Ke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/28. Saj Ke Sawar Ke.mp3"
+        },
+        {
+          "title": "Hook Raja Ji",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/29. Hook Raja Ji.mp3"
+        },
+        {
+          "title": "Lolly Pop Lageli",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/3. Lolly Pop Lageli.mp3"
+        },
+        {
+          "title": "Raja Raja Raja Kareja Mein Samaja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/30. Raja Raja Raja Kareja Mein Samaja.mp3"
+        },
+        {
+          "title": "Sorry Sorry   From  Bhojpuriya Raja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/31. Sorry Sorry - From _Bhojpuriya Raja_.mp3"
+        },
+        {
+          "title": "Heroine",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/32. Heroine.mp3"
+        },
+        {
+          "title": "Maroon Color Sadiya   From  Fasal",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/33. Maroon Color Sadiya - From _Fasal_.mp3"
+        },
+        {
+          "title": "Maaja Milela Na Pura",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/34. Maaja Milela Na Pura.mp3"
+        },
+        {
+          "title": "Dilwa Mangele Gamcha Bichayike",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/35. Dilwa Mangele Gamcha Bichayike.mp3"
+        },
+        {
+          "title": "Prashasan",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/36. Prashasan.mp3"
+        },
+        {
+          "title": "Lehanga Utha Dem Remote Se",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/37. Lehanga Utha Dem Remote Se.mp3"
+        },
+        {
+          "title": "Hamke Dulhin Banala",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/38. Hamke Dulhin Banala.mp3"
+        },
+        {
+          "title": "Apne Lover Ko Dhokha Do",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/39. Apne Lover Ko Dhokha Do.mp3"
+        },
+        {
+          "title": "Chat Deni Maar Deli",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/4. Chat Deni Maar Deli.mp3"
+        },
+        {
+          "title": "Bullet Pa Jija",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/40. Bullet Pa Jija.mp3"
+        },
+        {
+          "title": "Piya Ji Ke Muski   From  Doli Saja Ke Rakhna",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/41. Piya Ji Ke Muski - From _Doli Saja Ke Rakhna_.mp3"
+        },
+        {
+          "title": "Raate Diya Buta Ke Piya Kya Kya Kiya",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/42. Raate Diya Buta Ke Piya Kya Kya Kiya.mp3"
+        },
+        {
+          "title": "Naach Re Patarki 2.0",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/43. Naach Re Patarki 2.0.mp3"
+        },
+        {
+          "title": "Godi Me Leke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/44. Godi Me Leke.mp3"
+        },
+        {
+          "title": "Lehnga Luckhnaowa",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/46. Lehnga Luckhnaowa.mp3"
+        },
+        {
+          "title": "Bahe Jab Jab Purvaiya Ho",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/47. Bahe Jab Jab Purvaiya Ho.mp3"
+        },
+        {
+          "title": "Aaho Raja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/48. Aaho Raja.mp3"
+        },
+        {
+          "title": "Lagelu Jahar",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/49. Lagelu Jahar.mp3"
+        },
+        {
+          "title": "Mehraru Milal Gaay",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/5. Mehraru Milal Gaay.mp3"
+        },
+        {
+          "title": "Latak Jaiba",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/50. Latak Jaiba.mp3"
+        },
+        {
+          "title": "Naach Re Patarki 2.0",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/51. Naach Re Patarki 2.0.mp3"
+        },
+        {
+          "title": "Eka Karelu",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/52. Eka Karelu.mp3"
+        },
+        {
+          "title": "Balma Kadar Na Jane",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/53. Balma Kadar Na Jane.mp3"
+        },
+        {
+          "title": "Nimbu Kharbuja Bhail 2",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/54. Nimbu Kharbuja Bhail 2.mp3"
+        },
+        {
+          "title": "Nathuniya Pe Goli Maare",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/55. Nathuniya Pe Goli Maare.mp3"
+        },
+        {
+          "title": "Hamar Vala Have",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/56. Hamar Vala Have.mp3"
+        },
+        {
+          "title": "Kajra Mohabbat Wala",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/57. Kajra Mohabbat Wala.mp3"
+        },
+        {
+          "title": "Kamar Damage",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/58. Kamar Damage.mp3"
+        },
+        {
+          "title": "Marad Ha Matha Ke Darad",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/59. Marad Ha Matha Ke Darad.mp3"
+        },
+        {
+          "title": "Laal Ghaghra",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/6. Laal Ghaghra.mp3"
+        },
+        {
+          "title": "Latak Jaiba",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/60. Latak Jaiba.mp3"
+        },
+        {
+          "title": "Godi Me Leke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/61. Godi Me Leke.mp3"
+        },
+        {
+          "title": "Chit Badli Khiya Ke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/62. Chit Badli Khiya Ke.mp3"
+        },
+        {
+          "title": "Sarso Ke Sagiya   From  Mehandi Laga Ke Rakhna",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/63. Sarso Ke Sagiya - From _Mehandi Laga Ke Rakhna_.mp3"
+        },
+        {
+          "title": "Hum Haeen Piya Ji Ke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/64. Hum Haeen Piya Ji Ke.mp3"
+        },
+        {
+          "title": "Ohi Re Jagahiya",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/65. Ohi Re Jagahiya.mp3"
+        },
+        {
+          "title": "Kabootar Baaz",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/66. Kabootar Baaz.mp3"
+        },
+        {
+          "title": "Salai Ke Tili",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/67. Salai Ke Tili.mp3"
+        },
+        {
+          "title": "Saiyan Ji Dilwa Mangele Gamcha Bichai Ke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/68. Saiyan Ji Dilwa Mangele Gamcha Bichai Ke.mp3"
+        },
+        {
+          "title": "Naach Re Patarki",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/69. Naach Re Patarki.mp3"
+        },
+        {
+          "title": "Heroine",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/7. Heroine.mp3"
+        },
+        {
+          "title": "Dhodi Se Shurwat",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/70. Dhodi Se Shurwat.mp3"
+        },
+        {
+          "title": "Kamariya Ka Jhatka",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/71. Kamariya Ka Jhatka.mp3"
+        },
+        {
+          "title": "Ghaghari",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/72. Ghaghari.mp3"
+        },
+        {
+          "title": "Chadhal Jawani Rasgulla",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/73. Chadhal Jawani Rasgulla.mp3"
+        },
+        {
+          "title": "Pistol",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/74. Pistol.mp3"
+        },
+        {
+          "title": "Kariya Blouse",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/75. Kariya Blouse.mp3"
+        },
+        {
+          "title": "Arrah Ballia Chhapra",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/76. Arrah Ballia Chhapra.mp3"
+        },
+        {
+          "title": "Najare Me Kajare Ban Ke",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/77. Najare Me Kajare Ban Ke.mp3"
+        },
+        {
+          "title": "Licensee",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/78. Licensee.mp3"
+        },
+        {
+          "title": "Patna Ki Pari",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/79. Patna Ki Pari.mp3"
+        },
+        {
+          "title": "Hari Hari Odhani",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/8. Hari Hari Odhani.mp3"
+        },
+        {
+          "title": "Kamariya",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/80. Kamariya.mp3"
+        },
+        {
+          "title": "Jira Jawayin Ayichath Bani",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/82. Jira Jawayin Ayichath Bani.mp3"
+        },
+        {
+          "title": "Chhuwa Dena Kamar",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/83. Chhuwa Dena Kamar.mp3"
+        },
+        {
+          "title": "Billo Rani",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/84. Billo Rani.mp3"
+        },
+        {
+          "title": "Do Ghoont   Bhojpuri",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/85. Do Ghoont - Bhojpuri.mp3"
+        },
+        {
+          "title": "Aara Ke Haveli",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/86. Aara Ke Haveli.mp3"
+        },
+        {
+          "title": "Kamariya Par Case",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/88. Kamariya Par Case.mp3"
+        },
+        {
+          "title": "Daaru Bhail Jawani",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/89. Daaru Bhail Jawani.mp3"
+        },
+        {
+          "title": "Kamariya Dole",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/9. Kamariya Dole.mp3"
+        },
+        {
+          "title": "Kamar Ke Nilami",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/90. Kamar Ke Nilami.mp3"
+        },
+        {
+          "title": "Kamar Dabaadi",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/91. Kamar Dabaadi.mp3"
+        },
+        {
+          "title": "Dole Da Kamariya",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/92. Dole Da Kamariya.mp3"
+        },
+        {
+          "title": "Jhaal",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/93. Jhaal.mp3"
+        },
+        {
+          "title": "Hamar Lekha Marad",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/94. Hamar Lekha Marad.mp3"
+        },
+        {
+          "title": "Sata Sati",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/95. Sata Sati.mp3"
+        },
+        {
+          "title": "Kharbuja",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/96. Kharbuja.mp3"
+        },
+        {
+          "title": "Penhi Ke Naach Ghoonghroo",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/97. Penhi Ke Naach Ghoonghroo.mp3"
+        },
+        {
+          "title": "Ketna Me Kamar Hilaibu",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/98. Ketna Me Kamar Hilaibu.mp3"
+        },
+        {
+          "title": "Gahir Aapan Dhoriya",
+          "artist": "",
+          "url": "music/bhojpuri-bangers/99. Gahir Aapan Dhoriya.mp3"
+        }
+      ]
+    },
+    "bartan-time": {
+      "tracks": [
+        {
+          "title": "Sheila Ki Jawani",
+          "artist": "",
+          "url": "music/bartan-time/1. Sheila Ki Jawani.mp3"
+        },
+        {
+          "title": "Munni Badnaam",
+          "artist": "",
+          "url": "music/bartan-time/10. Munni Badnaam.mp3"
+        },
+        {
+          "title": "Saturday Saturday",
+          "artist": "",
+          "url": "music/bartan-time/100. Saturday Saturday.mp3"
+        },
+        {
+          "title": "Balma",
+          "artist": "",
+          "url": "music/bartan-time/11. Balma.mp3"
+        },
+        {
+          "title": "Tinku Jiya",
+          "artist": "",
+          "url": "music/bartan-time/12. Tinku Jiya.mp3"
+        },
+        {
+          "title": "Aa Re Pritam Pyaare",
+          "artist": "",
+          "url": "music/bartan-time/13. Aa Re Pritam Pyaare.mp3"
+        },
+        {
+          "title": "Chokra Jawaan",
+          "artist": "",
+          "url": "music/bartan-time/14. Chokra Jawaan.mp3"
+        },
+        {
+          "title": "Jalebi Bai",
+          "artist": "",
+          "url": "music/bartan-time/15. Jalebi Bai.mp3"
+        },
+        {
+          "title": "Anarkali Disco Chali",
+          "artist": "",
+          "url": "music/bartan-time/16. Anarkali Disco Chali.mp3"
+        },
+        {
+          "title": "Ghagra",
+          "artist": "",
+          "url": "music/bartan-time/17. Ghagra.mp3"
+        },
+        {
+          "title": "Aapka Kya Hoga (Dhanno)",
+          "artist": "",
+          "url": "music/bartan-time/18. Aapka Kya Hoga (Dhanno).mp3"
+        },
+        {
+          "title": "Pinky",
+          "artist": "",
+          "url": "music/bartan-time/19. Pinky.mp3"
+        },
+        {
+          "title": "Chikni Chameli",
+          "artist": "",
+          "url": "music/bartan-time/2. Chikni Chameli.mp3"
+        },
+        {
+          "title": "O Saki Saki (From  Batla House )",
+          "artist": "",
+          "url": "music/bartan-time/20. O Saki Saki (From _Batla House_).mp3"
+        },
+        {
+          "title": "Halkat Jawani",
+          "artist": "",
+          "url": "music/bartan-time/21. Halkat Jawani.mp3"
+        },
+        {
+          "title": "Bipasha",
+          "artist": "",
+          "url": "music/bartan-time/22. Bipasha.mp3"
+        },
+        {
+          "title": "Zara Zara Touch Me",
+          "artist": "",
+          "url": "music/bartan-time/23. Zara Zara Touch Me.mp3"
+        },
+        {
+          "title": "Babuji Zara Dheere Chalo",
+          "artist": "",
+          "url": "music/bartan-time/24. Babuji Zara Dheere Chalo.mp3"
+        },
+        {
+          "title": "Gali Gali (From  Kgf Chapter 1 )",
+          "artist": "",
+          "url": "music/bartan-time/25. Gali Gali (From _Kgf Chapter 1_).mp3"
+        },
+        {
+          "title": "Ek Toh Kum Zindagani (From  Marjaavaan )",
+          "artist": "",
+          "url": "music/bartan-time/26. Ek Toh Kum Zindagani (From _Marjaavaan_).mp3"
+        },
+        {
+          "title": "Parda",
+          "artist": "",
+          "url": "music/bartan-time/27. Parda.mp3"
+        },
+        {
+          "title": "Hoth Rasiley",
+          "artist": "",
+          "url": "music/bartan-time/28. Hoth Rasiley.mp3"
+        },
+        {
+          "title": "Chamma Chamma",
+          "artist": "",
+          "url": "music/bartan-time/29. Chamma Chamma.mp3"
+        },
+        {
+          "title": "Pinky (From  Zanjeer )",
+          "artist": "",
+          "url": "music/bartan-time/3. Pinky (From _Zanjeer_).mp3"
+        },
+        {
+          "title": "Mungda (From  Total Dhamaal )",
+          "artist": "",
+          "url": "music/bartan-time/31. Mungda (From _Total Dhamaal_).mp3"
+        },
+        {
+          "title": "Do Peg Maar",
+          "artist": "",
+          "url": "music/bartan-time/32. Do Peg Maar.mp3"
+        },
+        {
+          "title": "Kusu Kusu (From  Satyameva Jayate 2 )",
+          "artist": "",
+          "url": "music/bartan-time/33. Kusu Kusu (From _Satyameva Jayate 2_).mp3"
+        },
+        {
+          "title": "No Entry  Ishq Di Galli Vich",
+          "artist": "",
+          "url": "music/bartan-time/34. No Entry_ Ishq Di Galli Vich.mp3"
+        },
+        {
+          "title": "Lovely",
+          "artist": "",
+          "url": "music/bartan-time/35. Lovely.mp3"
+        },
+        {
+          "title": "Jooma Chumma De De",
+          "artist": "",
+          "url": "music/bartan-time/36. Jooma Chumma De De.mp3"
+        },
+        {
+          "title": "The Humma Song (From  Ok Jaanu )",
+          "artist": "",
+          "url": "music/bartan-time/37. The Humma Song (From _OK Jaanu_).mp3"
+        },
+        {
+          "title": "Beedi (From  Omkara )",
+          "artist": "",
+          "url": "music/bartan-time/38. Beedi (From _Omkara_).mp3"
+        },
+        {
+          "title": "Radha",
+          "artist": "",
+          "url": "music/bartan-time/39. Radha.mp3"
+        },
+        {
+          "title": "Fevicol Se",
+          "artist": "",
+          "url": "music/bartan-time/4. Fevicol Se.mp3"
+        },
+        {
+          "title": "Kamariya",
+          "artist": "",
+          "url": "music/bartan-time/40. Kamariya.mp3"
+        },
+        {
+          "title": "Chaka Chak (From  Atrangi Re )",
+          "artist": "",
+          "url": "music/bartan-time/41. Chaka Chak (From _Atrangi Re_).mp3"
+        },
+        {
+          "title": "Mera Naam Mary (From  Brothers )",
+          "artist": "",
+          "url": "music/bartan-time/42. Mera Naam Mary (From _Brothers_).mp3"
+        },
+        {
+          "title": "Second Hand Jawaani (From  Cocktail )",
+          "artist": "",
+          "url": "music/bartan-time/43. Second Hand Jawaani (From _Cocktail_).mp3"
+        },
+        {
+          "title": "Ang Laga De",
+          "artist": "",
+          "url": "music/bartan-time/46. Ang Laga De.mp3"
+        },
+        {
+          "title": "Character Dheela",
+          "artist": "",
+          "url": "music/bartan-time/47. Character Dheela.mp3"
+        },
+        {
+          "title": "Bebo",
+          "artist": "",
+          "url": "music/bartan-time/48. Bebo.mp3"
+        },
+        {
+          "title": "Subha Hone Na De",
+          "artist": "",
+          "url": "music/bartan-time/49. Subha Hone Na De.mp3"
+        },
+        {
+          "title": "Ooh La La",
+          "artist": "",
+          "url": "music/bartan-time/5. Ooh La La.mp3"
+        },
+        {
+          "title": "Desi Girl",
+          "artist": "",
+          "url": "music/bartan-time/50. Desi Girl.mp3"
+        },
+        {
+          "title": "Jadoo Ki Jhappi",
+          "artist": "",
+          "url": "music/bartan-time/51. Jadoo Ki Jhappi.mp3"
+        },
+        {
+          "title": "Gulaabo",
+          "artist": "",
+          "url": "music/bartan-time/53. Gulaabo.mp3"
+        },
+        {
+          "title": "Ram Chahe Leela",
+          "artist": "",
+          "url": "music/bartan-time/54. Ram Chahe Leela.mp3"
+        },
+        {
+          "title": "Aao Raja",
+          "artist": "",
+          "url": "music/bartan-time/55. Aao Raja.mp3"
+        },
+        {
+          "title": "Aaj Ki Raat (From  Stree 2 )",
+          "artist": "",
+          "url": "music/bartan-time/56. Aaj Ki Raat (From _Stree 2_).mp3"
+        },
+        {
+          "title": "Aayi Nai (From  Stree 2 )",
+          "artist": "",
+          "url": "music/bartan-time/57. Aayi Nai (From _Stree 2_).mp3"
+        },
+        {
+          "title": "Namak",
+          "artist": "",
+          "url": "music/bartan-time/58. Namak.mp3"
+        },
+        {
+          "title": "Oh Girl You'Re Mine .",
+          "artist": "",
+          "url": "music/bartan-time/59. Oh Girl You're Mine ..mp3"
+        },
+        {
+          "title": "Baby Doll",
+          "artist": "",
+          "url": "music/bartan-time/6. Baby Doll.mp3"
+        },
+        {
+          "title": "Crazy Kiya Re",
+          "artist": "",
+          "url": "music/bartan-time/60. Crazy Kiya Re.mp3"
+        },
+        {
+          "title": "Lolly Pop Lageli",
+          "artist": "",
+          "url": "music/bartan-time/61. Lolly Pop Lageli.mp3"
+        },
+        {
+          "title": "Rasgulla",
+          "artist": "",
+          "url": "music/bartan-time/62. Rasgulla.mp3"
+        },
+        {
+          "title": "Ude Dil Befikre",
+          "artist": "",
+          "url": "music/bartan-time/63. Ude Dil Befikre.mp3"
+        },
+        {
+          "title": "High Heels Te Nachche (From  Ki &Amp; Ka ) (Feat. Jaz Dhami, Aditi Singh Sharma)",
+          "artist": "",
+          "url": "music/bartan-time/64. High Heels Te Nachche (From _Ki &amp; Ka_) (feat. Jaz Dhami, Aditi Singh Sharma).mp3"
+        },
+        {
+          "title": "Dupatta Tera Nau Rang Da",
+          "artist": "",
+          "url": "music/bartan-time/65. Dupatta Tera Nau Rang Da.mp3"
+        },
+        {
+          "title": "Ramta Jogi",
+          "artist": "",
+          "url": "music/bartan-time/66. Ramta Jogi.mp3"
+        },
+        {
+          "title": "Jhalak Dikhla Ja",
+          "artist": "",
+          "url": "music/bartan-time/67. Jhalak Dikhla Ja.mp3"
+        },
+        {
+          "title": "Mehbooba Mehbooba",
+          "artist": "",
+          "url": "music/bartan-time/68. Mehbooba Mehbooba.mp3"
+        },
+        {
+          "title": "Ding Dong",
+          "artist": "",
+          "url": "music/bartan-time/69. Ding Dong.mp3"
+        },
+        {
+          "title": "Beedi",
+          "artist": "",
+          "url": "music/bartan-time/7. Beedi.mp3"
+        },
+        {
+          "title": "Baamulaiza",
+          "artist": "",
+          "url": "music/bartan-time/70. Baamulaiza.mp3"
+        },
+        {
+          "title": "Ainvayi Ainvayi",
+          "artist": "",
+          "url": "music/bartan-time/71. Ainvayi Ainvayi.mp3"
+        },
+        {
+          "title": "Say  Shava Shava",
+          "artist": "",
+          "url": "music/bartan-time/72. Say _Shava Shava_.mp3"
+        },
+        {
+          "title": "Hamari Shaadi Mein",
+          "artist": "",
+          "url": "music/bartan-time/73. Hamari Shaadi Mein.mp3"
+        },
+        {
+          "title": "Nagada Nagada",
+          "artist": "",
+          "url": "music/bartan-time/74. Nagada Nagada.mp3"
+        },
+        {
+          "title": "Gandi Baat",
+          "artist": "",
+          "url": "music/bartan-time/75. Gandi Baat.mp3"
+        },
+        {
+          "title": "Afghan Jalebi (Film Version)",
+          "artist": "",
+          "url": "music/bartan-time/76. Afghan Jalebi (Film Version).mp3"
+        },
+        {
+          "title": "Dil Mera Muft Ka",
+          "artist": "",
+          "url": "music/bartan-time/77. Dil Mera Muft Ka.mp3"
+        },
+        {
+          "title": "Lat Lag Gayee",
+          "artist": "",
+          "url": "music/bartan-time/78. Lat Lag Gayee.mp3"
+        },
+        {
+          "title": "Shake It Saiyyan",
+          "artist": "",
+          "url": "music/bartan-time/79. Shake It Saiyyan.mp3"
+        },
+        {
+          "title": "Choli Ke Peeche",
+          "artist": "",
+          "url": "music/bartan-time/8. Choli Ke Peeche.mp3"
+        },
+        {
+          "title": "Shakira",
+          "artist": "",
+          "url": "music/bartan-time/80. Shakira.mp3"
+        },
+        {
+          "title": "Dum Dum",
+          "artist": "",
+          "url": "music/bartan-time/81. Dum Dum.mp3"
+        },
+        {
+          "title": "Lucky Boy",
+          "artist": "",
+          "url": "music/bartan-time/82. Lucky Boy.mp3"
+        },
+        {
+          "title": "Raja Ji",
+          "artist": "",
+          "url": "music/bartan-time/83. Raja Ji.mp3"
+        },
+        {
+          "title": "Heroine",
+          "artist": "",
+          "url": "music/bartan-time/84. Heroine.mp3"
+        },
+        {
+          "title": "Make Some Noise For The Desi Boyz",
+          "artist": "",
+          "url": "music/bartan-time/85. Make Some Noise For The Desi Boyz.mp3"
+        },
+        {
+          "title": "Ek Do Teen Char",
+          "artist": "",
+          "url": "music/bartan-time/86. Ek Do Teen Char.mp3"
+        },
+        {
+          "title": "Aadat Se Majboor",
+          "artist": "",
+          "url": "music/bartan-time/87. Aadat Se Majboor.mp3"
+        },
+        {
+          "title": "Love Dose",
+          "artist": "",
+          "url": "music/bartan-time/88. Love Dose.mp3"
+        },
+        {
+          "title": "Hookah Bar",
+          "artist": "",
+          "url": "music/bartan-time/89. Hookah Bar.mp3"
+        },
+        {
+          "title": "Kajra Re (From  Bunty Aur Babli )",
+          "artist": "",
+          "url": "music/bartan-time/9. Kajra Re (From _Bunty Aur Babli_).mp3"
+        },
+        {
+          "title": "Chaar Botal Vodka (From  Ragini Mms 2 )",
+          "artist": "",
+          "url": "music/bartan-time/91. Chaar Botal Vodka (From _Ragini Mms 2_).mp3"
+        },
+        {
+          "title": "Saree Ke Fall Sa",
+          "artist": "",
+          "url": "music/bartan-time/92. Saree Ke Fall Sa.mp3"
+        },
+        {
+          "title": "Brown Rang",
+          "artist": "",
+          "url": "music/bartan-time/93. Brown Rang.mp3"
+        },
+        {
+          "title": "Soni De Nakhre",
+          "artist": "",
+          "url": "music/bartan-time/94. Soni De Nakhre.mp3"
+        },
+        {
+          "title": "Senorita",
+          "artist": "",
+          "url": "music/bartan-time/95. Senorita.mp3"
+        },
+        {
+          "title": "Uff Teri Adaa",
+          "artist": "",
+          "url": "music/bartan-time/96. Uff Teri Adaa.mp3"
+        },
+        {
+          "title": "London Thumakda",
+          "artist": "",
+          "url": "music/bartan-time/97. London Thumakda.mp3"
+        },
+        {
+          "title": "Blue Eyes",
+          "artist": "",
+          "url": "music/bartan-time/98. Blue Eyes.mp3"
+        },
+        {
+          "title": "Party With The Bhoothnath",
+          "artist": "",
+          "url": "music/bartan-time/99. Party With The Bhoothnath.mp3"
+        }
+      ]
+    },
+    "bartan-ka-samay": {
+      "tracks": [
+        {
+          "title": "Sheila Ki Jawani",
+          "artist": "",
+          "url": "music/bartan-time/1. Sheila Ki Jawani.mp3"
+        },
+        {
+          "title": "Munni Badnaam",
+          "artist": "",
+          "url": "music/bartan-time/10. Munni Badnaam.mp3"
+        },
+        {
+          "title": "Saturday Saturday",
+          "artist": "",
+          "url": "music/bartan-time/100. Saturday Saturday.mp3"
+        },
+        {
+          "title": "Balma",
+          "artist": "",
+          "url": "music/bartan-time/11. Balma.mp3"
+        },
+        {
+          "title": "Tinku Jiya",
+          "artist": "",
+          "url": "music/bartan-time/12. Tinku Jiya.mp3"
+        },
+        {
+          "title": "Aa Re Pritam Pyaare",
+          "artist": "",
+          "url": "music/bartan-time/13. Aa Re Pritam Pyaare.mp3"
+        },
+        {
+          "title": "Chokra Jawaan",
+          "artist": "",
+          "url": "music/bartan-time/14. Chokra Jawaan.mp3"
+        },
+        {
+          "title": "Jalebi Bai",
+          "artist": "",
+          "url": "music/bartan-time/15. Jalebi Bai.mp3"
+        },
+        {
+          "title": "Anarkali Disco Chali",
+          "artist": "",
+          "url": "music/bartan-time/16. Anarkali Disco Chali.mp3"
+        },
+        {
+          "title": "Ghagra",
+          "artist": "",
+          "url": "music/bartan-time/17. Ghagra.mp3"
+        },
+        {
+          "title": "Aapka Kya Hoga (Dhanno)",
+          "artist": "",
+          "url": "music/bartan-time/18. Aapka Kya Hoga (Dhanno).mp3"
+        },
+        {
+          "title": "Pinky",
+          "artist": "",
+          "url": "music/bartan-time/19. Pinky.mp3"
+        },
+        {
+          "title": "Chikni Chameli",
+          "artist": "",
+          "url": "music/bartan-time/2. Chikni Chameli.mp3"
+        },
+        {
+          "title": "O Saki Saki (From  Batla House )",
+          "artist": "",
+          "url": "music/bartan-time/20. O Saki Saki (From _Batla House_).mp3"
+        },
+        {
+          "title": "Halkat Jawani",
+          "artist": "",
+          "url": "music/bartan-time/21. Halkat Jawani.mp3"
+        },
+        {
+          "title": "Bipasha",
+          "artist": "",
+          "url": "music/bartan-time/22. Bipasha.mp3"
+        },
+        {
+          "title": "Zara Zara Touch Me",
+          "artist": "",
+          "url": "music/bartan-time/23. Zara Zara Touch Me.mp3"
+        },
+        {
+          "title": "Babuji Zara Dheere Chalo",
+          "artist": "",
+          "url": "music/bartan-time/24. Babuji Zara Dheere Chalo.mp3"
+        },
+        {
+          "title": "Gali Gali (From  Kgf Chapter 1 )",
+          "artist": "",
+          "url": "music/bartan-time/25. Gali Gali (From _Kgf Chapter 1_).mp3"
+        },
+        {
+          "title": "Ek Toh Kum Zindagani (From  Marjaavaan )",
+          "artist": "",
+          "url": "music/bartan-time/26. Ek Toh Kum Zindagani (From _Marjaavaan_).mp3"
+        },
+        {
+          "title": "Parda",
+          "artist": "",
+          "url": "music/bartan-time/27. Parda.mp3"
+        },
+        {
+          "title": "Hoth Rasiley",
+          "artist": "",
+          "url": "music/bartan-time/28. Hoth Rasiley.mp3"
+        },
+        {
+          "title": "Chamma Chamma",
+          "artist": "",
+          "url": "music/bartan-time/29. Chamma Chamma.mp3"
+        },
+        {
+          "title": "Pinky (From  Zanjeer )",
+          "artist": "",
+          "url": "music/bartan-time/3. Pinky (From _Zanjeer_).mp3"
+        },
+        {
+          "title": "Mungda (From  Total Dhamaal )",
+          "artist": "",
+          "url": "music/bartan-time/31. Mungda (From _Total Dhamaal_).mp3"
+        },
+        {
+          "title": "Do Peg Maar",
+          "artist": "",
+          "url": "music/bartan-time/32. Do Peg Maar.mp3"
+        },
+        {
+          "title": "Kusu Kusu (From  Satyameva Jayate 2 )",
+          "artist": "",
+          "url": "music/bartan-time/33. Kusu Kusu (From _Satyameva Jayate 2_).mp3"
+        },
+        {
+          "title": "No Entry  Ishq Di Galli Vich",
+          "artist": "",
+          "url": "music/bartan-time/34. No Entry_ Ishq Di Galli Vich.mp3"
+        },
+        {
+          "title": "Lovely",
+          "artist": "",
+          "url": "music/bartan-time/35. Lovely.mp3"
+        },
+        {
+          "title": "Jooma Chumma De De",
+          "artist": "",
+          "url": "music/bartan-time/36. Jooma Chumma De De.mp3"
+        },
+        {
+          "title": "The Humma Song (From  Ok Jaanu )",
+          "artist": "",
+          "url": "music/bartan-time/37. The Humma Song (From _OK Jaanu_).mp3"
+        },
+        {
+          "title": "Beedi (From  Omkara )",
+          "artist": "",
+          "url": "music/bartan-time/38. Beedi (From _Omkara_).mp3"
+        },
+        {
+          "title": "Radha",
+          "artist": "",
+          "url": "music/bartan-time/39. Radha.mp3"
+        },
+        {
+          "title": "Fevicol Se",
+          "artist": "",
+          "url": "music/bartan-time/4. Fevicol Se.mp3"
+        },
+        {
+          "title": "Kamariya",
+          "artist": "",
+          "url": "music/bartan-time/40. Kamariya.mp3"
+        },
+        {
+          "title": "Chaka Chak (From  Atrangi Re )",
+          "artist": "",
+          "url": "music/bartan-time/41. Chaka Chak (From _Atrangi Re_).mp3"
+        },
+        {
+          "title": "Mera Naam Mary (From  Brothers )",
+          "artist": "",
+          "url": "music/bartan-time/42. Mera Naam Mary (From _Brothers_).mp3"
+        },
+        {
+          "title": "Second Hand Jawaani (From  Cocktail )",
+          "artist": "",
+          "url": "music/bartan-time/43. Second Hand Jawaani (From _Cocktail_).mp3"
+        },
+        {
+          "title": "Ang Laga De",
+          "artist": "",
+          "url": "music/bartan-time/46. Ang Laga De.mp3"
+        },
+        {
+          "title": "Character Dheela",
+          "artist": "",
+          "url": "music/bartan-time/47. Character Dheela.mp3"
+        },
+        {
+          "title": "Bebo",
+          "artist": "",
+          "url": "music/bartan-time/48. Bebo.mp3"
+        },
+        {
+          "title": "Subha Hone Na De",
+          "artist": "",
+          "url": "music/bartan-time/49. Subha Hone Na De.mp3"
+        },
+        {
+          "title": "Ooh La La",
+          "artist": "",
+          "url": "music/bartan-time/5. Ooh La La.mp3"
+        },
+        {
+          "title": "Desi Girl",
+          "artist": "",
+          "url": "music/bartan-time/50. Desi Girl.mp3"
+        },
+        {
+          "title": "Jadoo Ki Jhappi",
+          "artist": "",
+          "url": "music/bartan-time/51. Jadoo Ki Jhappi.mp3"
+        },
+        {
+          "title": "Gulaabo",
+          "artist": "",
+          "url": "music/bartan-time/53. Gulaabo.mp3"
+        },
+        {
+          "title": "Ram Chahe Leela",
+          "artist": "",
+          "url": "music/bartan-time/54. Ram Chahe Leela.mp3"
+        },
+        {
+          "title": "Aao Raja",
+          "artist": "",
+          "url": "music/bartan-time/55. Aao Raja.mp3"
+        },
+        {
+          "title": "Aaj Ki Raat (From  Stree 2 )",
+          "artist": "",
+          "url": "music/bartan-time/56. Aaj Ki Raat (From _Stree 2_).mp3"
+        },
+        {
+          "title": "Aayi Nai (From  Stree 2 )",
+          "artist": "",
+          "url": "music/bartan-time/57. Aayi Nai (From _Stree 2_).mp3"
+        },
+        {
+          "title": "Namak",
+          "artist": "",
+          "url": "music/bartan-time/58. Namak.mp3"
+        },
+        {
+          "title": "Oh Girl You'Re Mine .",
+          "artist": "",
+          "url": "music/bartan-time/59. Oh Girl You're Mine ..mp3"
+        },
+        {
+          "title": "Baby Doll",
+          "artist": "",
+          "url": "music/bartan-time/6. Baby Doll.mp3"
+        },
+        {
+          "title": "Crazy Kiya Re",
+          "artist": "",
+          "url": "music/bartan-time/60. Crazy Kiya Re.mp3"
+        },
+        {
+          "title": "Lolly Pop Lageli",
+          "artist": "",
+          "url": "music/bartan-time/61. Lolly Pop Lageli.mp3"
+        },
+        {
+          "title": "Rasgulla",
+          "artist": "",
+          "url": "music/bartan-time/62. Rasgulla.mp3"
+        },
+        {
+          "title": "Ude Dil Befikre",
+          "artist": "",
+          "url": "music/bartan-time/63. Ude Dil Befikre.mp3"
+        },
+        {
+          "title": "High Heels Te Nachche (From  Ki &Amp; Ka ) (Feat. Jaz Dhami, Aditi Singh Sharma)",
+          "artist": "",
+          "url": "music/bartan-time/64. High Heels Te Nachche (From _Ki &amp; Ka_) (feat. Jaz Dhami, Aditi Singh Sharma).mp3"
+        },
+        {
+          "title": "Dupatta Tera Nau Rang Da",
+          "artist": "",
+          "url": "music/bartan-time/65. Dupatta Tera Nau Rang Da.mp3"
+        },
+        {
+          "title": "Ramta Jogi",
+          "artist": "",
+          "url": "music/bartan-time/66. Ramta Jogi.mp3"
+        },
+        {
+          "title": "Jhalak Dikhla Ja",
+          "artist": "",
+          "url": "music/bartan-time/67. Jhalak Dikhla Ja.mp3"
+        },
+        {
+          "title": "Mehbooba Mehbooba",
+          "artist": "",
+          "url": "music/bartan-time/68. Mehbooba Mehbooba.mp3"
+        },
+        {
+          "title": "Ding Dong",
+          "artist": "",
+          "url": "music/bartan-time/69. Ding Dong.mp3"
+        },
+        {
+          "title": "Beedi",
+          "artist": "",
+          "url": "music/bartan-time/7. Beedi.mp3"
+        },
+        {
+          "title": "Baamulaiza",
+          "artist": "",
+          "url": "music/bartan-time/70. Baamulaiza.mp3"
+        },
+        {
+          "title": "Ainvayi Ainvayi",
+          "artist": "",
+          "url": "music/bartan-time/71. Ainvayi Ainvayi.mp3"
+        },
+        {
+          "title": "Say  Shava Shava",
+          "artist": "",
+          "url": "music/bartan-time/72. Say _Shava Shava_.mp3"
+        },
+        {
+          "title": "Hamari Shaadi Mein",
+          "artist": "",
+          "url": "music/bartan-time/73. Hamari Shaadi Mein.mp3"
+        },
+        {
+          "title": "Nagada Nagada",
+          "artist": "",
+          "url": "music/bartan-time/74. Nagada Nagada.mp3"
+        },
+        {
+          "title": "Gandi Baat",
+          "artist": "",
+          "url": "music/bartan-time/75. Gandi Baat.mp3"
+        },
+        {
+          "title": "Afghan Jalebi (Film Version)",
+          "artist": "",
+          "url": "music/bartan-time/76. Afghan Jalebi (Film Version).mp3"
+        },
+        {
+          "title": "Dil Mera Muft Ka",
+          "artist": "",
+          "url": "music/bartan-time/77. Dil Mera Muft Ka.mp3"
+        },
+        {
+          "title": "Lat Lag Gayee",
+          "artist": "",
+          "url": "music/bartan-time/78. Lat Lag Gayee.mp3"
+        },
+        {
+          "title": "Shake It Saiyyan",
+          "artist": "",
+          "url": "music/bartan-time/79. Shake It Saiyyan.mp3"
+        },
+        {
+          "title": "Choli Ke Peeche",
+          "artist": "",
+          "url": "music/bartan-time/8. Choli Ke Peeche.mp3"
+        },
+        {
+          "title": "Shakira",
+          "artist": "",
+          "url": "music/bartan-time/80. Shakira.mp3"
+        },
+        {
+          "title": "Dum Dum",
+          "artist": "",
+          "url": "music/bartan-time/81. Dum Dum.mp3"
+        },
+        {
+          "title": "Lucky Boy",
+          "artist": "",
+          "url": "music/bartan-time/82. Lucky Boy.mp3"
+        },
+        {
+          "title": "Raja Ji",
+          "artist": "",
+          "url": "music/bartan-time/83. Raja Ji.mp3"
+        },
+        {
+          "title": "Heroine",
+          "artist": "",
+          "url": "music/bartan-time/84. Heroine.mp3"
+        },
+        {
+          "title": "Make Some Noise For The Desi Boyz",
+          "artist": "",
+          "url": "music/bartan-time/85. Make Some Noise For The Desi Boyz.mp3"
+        },
+        {
+          "title": "Ek Do Teen Char",
+          "artist": "",
+          "url": "music/bartan-time/86. Ek Do Teen Char.mp3"
+        },
+        {
+          "title": "Aadat Se Majboor",
+          "artist": "",
+          "url": "music/bartan-time/87. Aadat Se Majboor.mp3"
+        },
+        {
+          "title": "Love Dose",
+          "artist": "",
+          "url": "music/bartan-time/88. Love Dose.mp3"
+        },
+        {
+          "title": "Hookah Bar",
+          "artist": "",
+          "url": "music/bartan-time/89. Hookah Bar.mp3"
+        },
+        {
+          "title": "Kajra Re (From  Bunty Aur Babli )",
+          "artist": "",
+          "url": "music/bartan-time/9. Kajra Re (From _Bunty Aur Babli_).mp3"
+        },
+        {
+          "title": "Chaar Botal Vodka (From  Ragini Mms 2 )",
+          "artist": "",
+          "url": "music/bartan-time/91. Chaar Botal Vodka (From _Ragini Mms 2_).mp3"
+        },
+        {
+          "title": "Saree Ke Fall Sa",
+          "artist": "",
+          "url": "music/bartan-time/92. Saree Ke Fall Sa.mp3"
+        },
+        {
+          "title": "Brown Rang",
+          "artist": "",
+          "url": "music/bartan-time/93. Brown Rang.mp3"
+        },
+        {
+          "title": "Soni De Nakhre",
+          "artist": "",
+          "url": "music/bartan-time/94. Soni De Nakhre.mp3"
+        },
+        {
+          "title": "Senorita",
+          "artist": "",
+          "url": "music/bartan-time/95. Senorita.mp3"
+        },
+        {
+          "title": "Uff Teri Adaa",
+          "artist": "",
+          "url": "music/bartan-time/96. Uff Teri Adaa.mp3"
+        },
+        {
+          "title": "London Thumakda",
+          "artist": "",
+          "url": "music/bartan-time/97. London Thumakda.mp3"
+        },
+        {
+          "title": "Blue Eyes",
+          "artist": "",
+          "url": "music/bartan-time/98. Blue Eyes.mp3"
+        },
+        {
+          "title": "Party With The Bhoothnath",
+          "artist": "",
+          "url": "music/bartan-time/99. Party With The Bhoothnath.mp3"
+        }
+      ]
+    },
+    "raju-mistri": {
+      "tracks": [
+        {
+          "title": "Chura Ke Dil Mera",
+          "artist": "",
+          "url": "music/raju-mistri/1. Chura Ke Dil Mera.mp3"
+        },
+        {
+          "title": "Mujhse Mohabbat Ka",
+          "artist": "",
+          "url": "music/raju-mistri/10. Mujhse Mohabbat Ka.mp3"
+        },
+        {
+          "title": "Tumsa Koi Pyaara",
+          "artist": "",
+          "url": "music/raju-mistri/11. Tumsa Koi Pyaara.mp3"
+        },
+        {
+          "title": "Raah Mein Unse Mulaqat",
+          "artist": "",
+          "url": "music/raju-mistri/12. Raah Mein Unse Mulaqat.mp3"
+        },
+        {
+          "title": "Dil Cheer Ke Dekh",
+          "artist": "",
+          "url": "music/raju-mistri/13. Dil Cheer Ke Dekh.mp3"
+        },
+        {
+          "title": "Is Pyar Se Meri Taraf Na Dekho   Duet Version",
+          "artist": "",
+          "url": "music/raju-mistri/14. Is Pyar Se Meri Taraf Na Dekho - Duet Version.mp3"
+        },
+        {
+          "title": "Chaaha Toh Bahut",
+          "artist": "",
+          "url": "music/raju-mistri/15. Chaaha Toh Bahut.mp3"
+        },
+        {
+          "title": "Pucho Zara Pucho",
+          "artist": "",
+          "url": "music/raju-mistri/16. Pucho Zara Pucho.mp3"
+        },
+        {
+          "title": "Tumse Milne Ki Tamanna Hai",
+          "artist": "",
+          "url": "music/raju-mistri/17. Tumse Milne Ki Tamanna Hai.mp3"
+        },
+        {
+          "title": "Lagi Aaj Sawan Ki",
+          "artist": "",
+          "url": "music/raju-mistri/19. Lagi Aaj Sawan Ki.mp3"
+        },
+        {
+          "title": "Tu Pyar Hai Kisi Aur Ka",
+          "artist": "",
+          "url": "music/raju-mistri/2. Tu Pyar Hai Kisi Aur Ka.mp3"
+        },
+        {
+          "title": "Chhupana Bhi Nahin Aata",
+          "artist": "",
+          "url": "music/raju-mistri/20. Chhupana Bhi Nahin Aata.mp3"
+        },
+        {
+          "title": "Kitaben Bahut Si (From  Baazigar )",
+          "artist": "",
+          "url": "music/raju-mistri/21. Kitaben Bahut Si (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Baazigar O Baazigar (From  Baazigar )",
+          "artist": "",
+          "url": "music/raju-mistri/22. Baazigar O Baazigar (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Koi Na Koi Chahiye (From  Deewana )",
+          "artist": "",
+          "url": "music/raju-mistri/23. Koi Na Koi Chahiye (From _Deewana_).mp3"
+        },
+        {
+          "title": "Jeeta Tha Jiske Liye (From  Dilwale )",
+          "artist": "",
+          "url": "music/raju-mistri/24. Jeeta Tha Jiske Liye (From _Dilwale_).mp3"
+        },
+        {
+          "title": "Tumhein Apna Banane Ki Kasam Khai Hai",
+          "artist": "",
+          "url": "music/raju-mistri/25. Tumhein Apna Banane Ki Kasam Khai Hai.mp3"
+        },
+        {
+          "title": "Jaadu Teri Nazar",
+          "artist": "",
+          "url": "music/raju-mistri/26. Jaadu Teri Nazar.mp3"
+        },
+        {
+          "title": "Ye Kaali Kaali Aankhen (From  Baazigar )",
+          "artist": "",
+          "url": "music/raju-mistri/27. Ye Kaali Kaali Aankhen (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Neend Churayee Meri",
+          "artist": "",
+          "url": "music/raju-mistri/28. Neend Churayee Meri.mp3"
+        },
+        {
+          "title": "Tum Dil Ki Dhadkan Mein (From  Dhadkan )",
+          "artist": "",
+          "url": "music/raju-mistri/29. Tum Dil Ki Dhadkan Mein (From _Dhadkan_).mp3"
+        },
+        {
+          "title": "Sochenge Tumhe Pyar (From  Deewana )",
+          "artist": "",
+          "url": "music/raju-mistri/3. Sochenge Tumhe Pyar (From _Deewana_).mp3"
+        },
+        {
+          "title": "Chaaha Hai Tujhko",
+          "artist": "",
+          "url": "music/raju-mistri/30. Chaaha Hai Tujhko.mp3"
+        },
+        {
+          "title": "Jo Bhi Kasmein",
+          "artist": "",
+          "url": "music/raju-mistri/31. Jo Bhi Kasmein.mp3"
+        },
+        {
+          "title": "Dekhne Walon Ne   From ''Chori Chori Chupke Chupke''",
+          "artist": "",
+          "url": "music/raju-mistri/32. Dekhne Walon Ne - From ''Chori Chori Chupke Chupke''.mp3"
+        },
+        {
+          "title": "Mohabbat Ki Nahin Jaati",
+          "artist": "",
+          "url": "music/raju-mistri/33. Mohabbat Ki Nahin Jaati.mp3"
+        },
+        {
+          "title": "Jaan   E   Jigar Jaaneman (From  Aashiqui )",
+          "artist": "",
+          "url": "music/raju-mistri/34. Jaan - E - Jigar Jaaneman (From _Aashiqui_).mp3"
+        },
+        {
+          "title": "Maine Pyar Tumhi Se Kiya Hai",
+          "artist": "",
+          "url": "music/raju-mistri/35. Maine Pyar Tumhi Se Kiya Hai.mp3"
+        },
+        {
+          "title": "Aisi Deewangi",
+          "artist": "",
+          "url": "music/raju-mistri/36. Aisi Deewangi.mp3"
+        },
+        {
+          "title": "Dil Ka Aalam (From  Aashiqui )",
+          "artist": "",
+          "url": "music/raju-mistri/37. Dil Ka Aalam (From _Aashiqui_).mp3"
+        },
+        {
+          "title": "Paas Woh Aane Lage (From  Main Khiladi Tu Anari )",
+          "artist": "",
+          "url": "music/raju-mistri/38. Paas Woh Aane Lage (From _Main Khiladi Tu Anari_).mp3"
+        },
+        {
+          "title": "Are Re Are",
+          "artist": "",
+          "url": "music/raju-mistri/39. Are Re Are.mp3"
+        },
+        {
+          "title": "Ae Mere Humsafar",
+          "artist": "",
+          "url": "music/raju-mistri/4. Ae Mere Humsafar.mp3"
+        },
+        {
+          "title": "Pehli Pehli Baar Mohabbat Ki Hai (From  Sirf Tum )",
+          "artist": "",
+          "url": "music/raju-mistri/40. Pehli Pehli Baar Mohabbat Ki Hai (From _Sirf Tum_).mp3"
+        },
+        {
+          "title": "Is Tarah Aashiqui Ka   Kumar Sanu Version",
+          "artist": "",
+          "url": "music/raju-mistri/41. Is Tarah Aashiqui Ka - Kumar Sanu Version.mp3"
+        },
+        {
+          "title": "Humko Sirf Tumse",
+          "artist": "",
+          "url": "music/raju-mistri/42. Humko Sirf Tumse.mp3"
+        },
+        {
+          "title": "Na Kajare Ki Dhar (From  Mohra )",
+          "artist": "",
+          "url": "music/raju-mistri/43. Na Kajare Ki Dhar (From _Mohra_).mp3"
+        },
+        {
+          "title": "Tum To Thehre Pardesi",
+          "artist": "",
+          "url": "music/raju-mistri/44. Tum To Thehre Pardesi.mp3"
+        },
+        {
+          "title": "Dekha Hai Pehli Baar (From  Saajan )",
+          "artist": "",
+          "url": "music/raju-mistri/45. Dekha Hai Pehli Baar (From _Saajan_).mp3"
+        },
+        {
+          "title": "Sab Kuchh Bhula Diya (Female)",
+          "artist": "",
+          "url": "music/raju-mistri/46. Sab Kuchh Bhula Diya (Female).mp3"
+        },
+        {
+          "title": "Mujhe Neend Na Aaye",
+          "artist": "",
+          "url": "music/raju-mistri/47. Mujhe Neend Na Aaye.mp3"
+        },
+        {
+          "title": "Ghar Se Nikalte",
+          "artist": "",
+          "url": "music/raju-mistri/48. Ghar Se Nikalte.mp3"
+        },
+        {
+          "title": "Chori Chori Dil Tera",
+          "artist": "",
+          "url": "music/raju-mistri/49. Chori Chori Dil Tera.mp3"
+        },
+        {
+          "title": "Woh Ladki Bahut Yaad Aati",
+          "artist": "",
+          "url": "music/raju-mistri/5. Woh Ladki Bahut Yaad Aati.mp3"
+        },
+        {
+          "title": "Tumse Milna",
+          "artist": "",
+          "url": "music/raju-mistri/50. Tumse Milna.mp3"
+        },
+        {
+          "title": "So Gaya Yeh Jahan",
+          "artist": "",
+          "url": "music/raju-mistri/51. So Gaya Yeh Jahan.mp3"
+        },
+        {
+          "title": "Waada Raha Sanam (From  Khiladi )",
+          "artist": "",
+          "url": "music/raju-mistri/52. Waada Raha Sanam (From _Khiladi_).mp3"
+        },
+        {
+          "title": "Pardesi Pardesi",
+          "artist": "",
+          "url": "music/raju-mistri/53. Pardesi Pardesi.mp3"
+        },
+        {
+          "title": "Pyar Kar",
+          "artist": "",
+          "url": "music/raju-mistri/54. Pyar Kar.mp3"
+        },
+        {
+          "title": "Main Duniya Bhula Doonga (From  Aashiqui )",
+          "artist": "",
+          "url": "music/raju-mistri/55. Main Duniya Bhula Doonga (From _Aashiqui_).mp3"
+        },
+        {
+          "title": "Mubarak Mubarak",
+          "artist": "",
+          "url": "music/raju-mistri/56. Mubarak Mubarak.mp3"
+        },
+        {
+          "title": "To Chalun   From  Border",
+          "artist": "",
+          "url": "music/raju-mistri/57. To Chalun - From _Border_.mp3"
+        },
+        {
+          "title": "Barsaat Ke Mausam Mein",
+          "artist": "",
+          "url": "music/raju-mistri/58. Barsaat Ke Mausam Mein.mp3"
+        },
+        {
+          "title": "Kitna Haseen Chehra (From  Dilwale )",
+          "artist": "",
+          "url": "music/raju-mistri/6. Kitna Haseen Chehra (From _Dilwale_).mp3"
+        },
+        {
+          "title": "Hum Nahin",
+          "artist": "",
+          "url": "music/raju-mistri/60. Hum Nahin.mp3"
+        },
+        {
+          "title": "Tere Dar Par Sanam   Male Version",
+          "artist": "",
+          "url": "music/raju-mistri/61. Tere Dar Par Sanam - Male Version.mp3"
+        },
+        {
+          "title": "Pehle To Kabhi Kabhi",
+          "artist": "",
+          "url": "music/raju-mistri/62. Pehle to Kabhi Kabhi.mp3"
+        },
+        {
+          "title": "Hum Yaar Hai Tumhare",
+          "artist": "",
+          "url": "music/raju-mistri/7. Hum Yaar Hai Tumhare.mp3"
+        },
+        {
+          "title": "Abhi To Mohabbat Ka (From  Hum Ho Gaye Aap Ke )",
+          "artist": "",
+          "url": "music/raju-mistri/8. Abhi to Mohabbat Ka (From _Hum Ho Gaye Aap Ke_).mp3"
+        },
+        {
+          "title": "Teri Umeed Tera Intezar",
+          "artist": "",
+          "url": "music/raju-mistri/9. Teri Umeed Tera Intezar.mp3"
+        }
+      ]
+    },
+    "chandan-mistri": {
+      "tracks": [
+        {
+          "title": "Chura Ke Dil Mera",
+          "artist": "",
+          "url": "music/raju-mistri/1. Chura Ke Dil Mera.mp3"
+        },
+        {
+          "title": "Mujhse Mohabbat Ka",
+          "artist": "",
+          "url": "music/raju-mistri/10. Mujhse Mohabbat Ka.mp3"
+        },
+        {
+          "title": "Tumsa Koi Pyaara",
+          "artist": "",
+          "url": "music/raju-mistri/11. Tumsa Koi Pyaara.mp3"
+        },
+        {
+          "title": "Raah Mein Unse Mulaqat",
+          "artist": "",
+          "url": "music/raju-mistri/12. Raah Mein Unse Mulaqat.mp3"
+        },
+        {
+          "title": "Dil Cheer Ke Dekh",
+          "artist": "",
+          "url": "music/raju-mistri/13. Dil Cheer Ke Dekh.mp3"
+        },
+        {
+          "title": "Is Pyar Se Meri Taraf Na Dekho   Duet Version",
+          "artist": "",
+          "url": "music/raju-mistri/14. Is Pyar Se Meri Taraf Na Dekho - Duet Version.mp3"
+        },
+        {
+          "title": "Chaaha Toh Bahut",
+          "artist": "",
+          "url": "music/raju-mistri/15. Chaaha Toh Bahut.mp3"
+        },
+        {
+          "title": "Pucho Zara Pucho",
+          "artist": "",
+          "url": "music/raju-mistri/16. Pucho Zara Pucho.mp3"
+        },
+        {
+          "title": "Tumse Milne Ki Tamanna Hai",
+          "artist": "",
+          "url": "music/raju-mistri/17. Tumse Milne Ki Tamanna Hai.mp3"
+        },
+        {
+          "title": "Lagi Aaj Sawan Ki",
+          "artist": "",
+          "url": "music/raju-mistri/19. Lagi Aaj Sawan Ki.mp3"
+        },
+        {
+          "title": "Tu Pyar Hai Kisi Aur Ka",
+          "artist": "",
+          "url": "music/raju-mistri/2. Tu Pyar Hai Kisi Aur Ka.mp3"
+        },
+        {
+          "title": "Chhupana Bhi Nahin Aata",
+          "artist": "",
+          "url": "music/raju-mistri/20. Chhupana Bhi Nahin Aata.mp3"
+        },
+        {
+          "title": "Kitaben Bahut Si (From  Baazigar )",
+          "artist": "",
+          "url": "music/raju-mistri/21. Kitaben Bahut Si (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Baazigar O Baazigar (From  Baazigar )",
+          "artist": "",
+          "url": "music/raju-mistri/22. Baazigar O Baazigar (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Koi Na Koi Chahiye (From  Deewana )",
+          "artist": "",
+          "url": "music/raju-mistri/23. Koi Na Koi Chahiye (From _Deewana_).mp3"
+        },
+        {
+          "title": "Jeeta Tha Jiske Liye (From  Dilwale )",
+          "artist": "",
+          "url": "music/raju-mistri/24. Jeeta Tha Jiske Liye (From _Dilwale_).mp3"
+        },
+        {
+          "title": "Tumhein Apna Banane Ki Kasam Khai Hai",
+          "artist": "",
+          "url": "music/raju-mistri/25. Tumhein Apna Banane Ki Kasam Khai Hai.mp3"
+        },
+        {
+          "title": "Jaadu Teri Nazar",
+          "artist": "",
+          "url": "music/raju-mistri/26. Jaadu Teri Nazar.mp3"
+        },
+        {
+          "title": "Ye Kaali Kaali Aankhen (From  Baazigar )",
+          "artist": "",
+          "url": "music/raju-mistri/27. Ye Kaali Kaali Aankhen (From _Baazigar_).mp3"
+        },
+        {
+          "title": "Neend Churayee Meri",
+          "artist": "",
+          "url": "music/raju-mistri/28. Neend Churayee Meri.mp3"
+        },
+        {
+          "title": "Tum Dil Ki Dhadkan Mein (From  Dhadkan )",
+          "artist": "",
+          "url": "music/raju-mistri/29. Tum Dil Ki Dhadkan Mein (From _Dhadkan_).mp3"
+        },
+        {
+          "title": "Sochenge Tumhe Pyar (From  Deewana )",
+          "artist": "",
+          "url": "music/raju-mistri/3. Sochenge Tumhe Pyar (From _Deewana_).mp3"
+        },
+        {
+          "title": "Chaaha Hai Tujhko",
+          "artist": "",
+          "url": "music/raju-mistri/30. Chaaha Hai Tujhko.mp3"
+        },
+        {
+          "title": "Jo Bhi Kasmein",
+          "artist": "",
+          "url": "music/raju-mistri/31. Jo Bhi Kasmein.mp3"
+        },
+        {
+          "title": "Dekhne Walon Ne   From ''Chori Chori Chupke Chupke''",
+          "artist": "",
+          "url": "music/raju-mistri/32. Dekhne Walon Ne - From ''Chori Chori Chupke Chupke''.mp3"
+        },
+        {
+          "title": "Mohabbat Ki Nahin Jaati",
+          "artist": "",
+          "url": "music/raju-mistri/33. Mohabbat Ki Nahin Jaati.mp3"
+        },
+        {
+          "title": "Jaan   E   Jigar Jaaneman (From  Aashiqui )",
+          "artist": "",
+          "url": "music/raju-mistri/34. Jaan - E - Jigar Jaaneman (From _Aashiqui_).mp3"
+        },
+        {
+          "title": "Maine Pyar Tumhi Se Kiya Hai",
+          "artist": "",
+          "url": "music/raju-mistri/35. Maine Pyar Tumhi Se Kiya Hai.mp3"
+        },
+        {
+          "title": "Aisi Deewangi",
+          "artist": "",
+          "url": "music/raju-mistri/36. Aisi Deewangi.mp3"
+        },
+        {
+          "title": "Dil Ka Aalam (From  Aashiqui )",
+          "artist": "",
+          "url": "music/raju-mistri/37. Dil Ka Aalam (From _Aashiqui_).mp3"
+        },
+        {
+          "title": "Paas Woh Aane Lage (From  Main Khiladi Tu Anari )",
+          "artist": "",
+          "url": "music/raju-mistri/38. Paas Woh Aane Lage (From _Main Khiladi Tu Anari_).mp3"
+        },
+        {
+          "title": "Are Re Are",
+          "artist": "",
+          "url": "music/raju-mistri/39. Are Re Are.mp3"
+        },
+        {
+          "title": "Ae Mere Humsafar",
+          "artist": "",
+          "url": "music/raju-mistri/4. Ae Mere Humsafar.mp3"
+        },
+        {
+          "title": "Pehli Pehli Baar Mohabbat Ki Hai (From  Sirf Tum )",
+          "artist": "",
+          "url": "music/raju-mistri/40. Pehli Pehli Baar Mohabbat Ki Hai (From _Sirf Tum_).mp3"
+        },
+        {
+          "title": "Is Tarah Aashiqui Ka   Kumar Sanu Version",
+          "artist": "",
+          "url": "music/raju-mistri/41. Is Tarah Aashiqui Ka - Kumar Sanu Version.mp3"
+        },
+        {
+          "title": "Humko Sirf Tumse",
+          "artist": "",
+          "url": "music/raju-mistri/42. Humko Sirf Tumse.mp3"
+        },
+        {
+          "title": "Na Kajare Ki Dhar (From  Mohra )",
+          "artist": "",
+          "url": "music/raju-mistri/43. Na Kajare Ki Dhar (From _Mohra_).mp3"
+        },
+        {
+          "title": "Tum To Thehre Pardesi",
+          "artist": "",
+          "url": "music/raju-mistri/44. Tum To Thehre Pardesi.mp3"
+        },
+        {
+          "title": "Dekha Hai Pehli Baar (From  Saajan )",
+          "artist": "",
+          "url": "music/raju-mistri/45. Dekha Hai Pehli Baar (From _Saajan_).mp3"
+        },
+        {
+          "title": "Sab Kuchh Bhula Diya (Female)",
+          "artist": "",
+          "url": "music/raju-mistri/46. Sab Kuchh Bhula Diya (Female).mp3"
+        },
+        {
+          "title": "Mujhe Neend Na Aaye",
+          "artist": "",
+          "url": "music/raju-mistri/47. Mujhe Neend Na Aaye.mp3"
+        },
+        {
+          "title": "Ghar Se Nikalte",
+          "artist": "",
+          "url": "music/raju-mistri/48. Ghar Se Nikalte.mp3"
+        },
+        {
+          "title": "Chori Chori Dil Tera",
+          "artist": "",
+          "url": "music/raju-mistri/49. Chori Chori Dil Tera.mp3"
+        },
+        {
+          "title": "Woh Ladki Bahut Yaad Aati",
+          "artist": "",
+          "url": "music/raju-mistri/5. Woh Ladki Bahut Yaad Aati.mp3"
+        },
+        {
+          "title": "Tumse Milna",
+          "artist": "",
+          "url": "music/raju-mistri/50. Tumse Milna.mp3"
+        },
+        {
+          "title": "So Gaya Yeh Jahan",
+          "artist": "",
+          "url": "music/raju-mistri/51. So Gaya Yeh Jahan.mp3"
+        },
+        {
+          "title": "Waada Raha Sanam (From  Khiladi )",
+          "artist": "",
+          "url": "music/raju-mistri/52. Waada Raha Sanam (From _Khiladi_).mp3"
+        },
+        {
+          "title": "Pardesi Pardesi",
+          "artist": "",
+          "url": "music/raju-mistri/53. Pardesi Pardesi.mp3"
+        },
+        {
+          "title": "Pyar Kar",
+          "artist": "",
+          "url": "music/raju-mistri/54. Pyar Kar.mp3"
+        },
+        {
+          "title": "Main Duniya Bhula Doonga (From  Aashiqui )",
+          "artist": "",
+          "url": "music/raju-mistri/55. Main Duniya Bhula Doonga (From _Aashiqui_).mp3"
+        },
+        {
+          "title": "Mubarak Mubarak",
+          "artist": "",
+          "url": "music/raju-mistri/56. Mubarak Mubarak.mp3"
+        },
+        {
+          "title": "To Chalun   From  Border",
+          "artist": "",
+          "url": "music/raju-mistri/57. To Chalun - From _Border_.mp3"
+        },
+        {
+          "title": "Barsaat Ke Mausam Mein",
+          "artist": "",
+          "url": "music/raju-mistri/58. Barsaat Ke Mausam Mein.mp3"
+        },
+        {
+          "title": "Kitna Haseen Chehra (From  Dilwale )",
+          "artist": "",
+          "url": "music/raju-mistri/6. Kitna Haseen Chehra (From _Dilwale_).mp3"
+        },
+        {
+          "title": "Hum Nahin",
+          "artist": "",
+          "url": "music/raju-mistri/60. Hum Nahin.mp3"
+        },
+        {
+          "title": "Tere Dar Par Sanam   Male Version",
+          "artist": "",
+          "url": "music/raju-mistri/61. Tere Dar Par Sanam - Male Version.mp3"
+        },
+        {
+          "title": "Pehle To Kabhi Kabhi",
+          "artist": "",
+          "url": "music/raju-mistri/62. Pehle to Kabhi Kabhi.mp3"
+        },
+        {
+          "title": "Hum Yaar Hai Tumhare",
+          "artist": "",
+          "url": "music/raju-mistri/7. Hum Yaar Hai Tumhare.mp3"
+        },
+        {
+          "title": "Abhi To Mohabbat Ka (From  Hum Ho Gaye Aap Ke )",
+          "artist": "",
+          "url": "music/raju-mistri/8. Abhi to Mohabbat Ka (From _Hum Ho Gaye Aap Ke_).mp3"
+        },
+        {
+          "title": "Teri Umeed Tera Intezar",
+          "artist": "",
+          "url": "music/raju-mistri/9. Teri Umeed Tera Intezar.mp3"
+        }
+      ]
+    },
+    "papa-ke-gaane": {
+      "tracks": [
+        {
+          "title": "Pink Lips",
+          "artist": "",
+          "url": "music/papa-ke-gaane/1. Pink Lips.mp3"
+        },
+        {
+          "title": "Munni Badnaam",
+          "artist": "",
+          "url": "music/papa-ke-gaane/10. Munni Badnaam.mp3"
+        },
+        {
+          "title": "Baby Ko Bass Pasand Hai",
+          "artist": "",
+          "url": "music/papa-ke-gaane/100. Baby Ko Bass Pasand Hai.mp3"
+        },
+        {
+          "title": "Character Dheela",
+          "artist": "",
+          "url": "music/papa-ke-gaane/11. Character Dheela.mp3"
+        },
+        {
+          "title": "Afghan Jalebi (Film Version)",
+          "artist": "",
+          "url": "music/papa-ke-gaane/12. Afghan Jalebi (Film Version).mp3"
+        },
+        {
+          "title": "Kiya Kiya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/13. Kiya Kiya.mp3"
+        },
+        {
+          "title": "Lat Lag Gayee",
+          "artist": "",
+          "url": "music/papa-ke-gaane/14. Lat Lag Gayee.mp3"
+        },
+        {
+          "title": "Aa Re Pritam Pyaare",
+          "artist": "",
+          "url": "music/papa-ke-gaane/15. Aa Re Pritam Pyaare.mp3"
+        },
+        {
+          "title": "Pinky",
+          "artist": "",
+          "url": "music/papa-ke-gaane/16. Pinky.mp3"
+        },
+        {
+          "title": "Ooh La La",
+          "artist": "",
+          "url": "music/papa-ke-gaane/17. Ooh La La.mp3"
+        },
+        {
+          "title": "Laila Main Laila",
+          "artist": "",
+          "url": "music/papa-ke-gaane/18. Laila Main Laila.mp3"
+        },
+        {
+          "title": "Le Le Mazaa Le",
+          "artist": "",
+          "url": "music/papa-ke-gaane/19. Le Le Mazaa Le.mp3"
+        },
+        {
+          "title": "Paani Waala Dance",
+          "artist": "",
+          "url": "music/papa-ke-gaane/2. Paani Waala Dance.mp3"
+        },
+        {
+          "title": "Jadoo Ki Jhappi",
+          "artist": "",
+          "url": "music/papa-ke-gaane/20. Jadoo Ki Jhappi.mp3"
+        },
+        {
+          "title": "Aa Toh Sahi",
+          "artist": "",
+          "url": "music/papa-ke-gaane/21. Aa Toh Sahi.mp3"
+        },
+        {
+          "title": "Mera Naam Mary (From  Brothers )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/22. Mera Naam Mary (From _Brothers_).mp3"
+        },
+        {
+          "title": "Do U Know",
+          "artist": "",
+          "url": "music/papa-ke-gaane/23. Do U Know.mp3"
+        },
+        {
+          "title": "Right Now Now",
+          "artist": "",
+          "url": "music/papa-ke-gaane/24. Right Now Now.mp3"
+        },
+        {
+          "title": "Aao Kabhi Haveli Pe",
+          "artist": "",
+          "url": "music/papa-ke-gaane/25. Aao Kabhi Haveli Pe.mp3"
+        },
+        {
+          "title": "Jhalla Wallah",
+          "artist": "",
+          "url": "music/papa-ke-gaane/27. Jhalla Wallah.mp3"
+        },
+        {
+          "title": "Baby Doll",
+          "artist": "",
+          "url": "music/papa-ke-gaane/28. Baby Doll.mp3"
+        },
+        {
+          "title": "Laila",
+          "artist": "",
+          "url": "music/papa-ke-gaane/29. Laila.mp3"
+        },
+        {
+          "title": "Aga Bai",
+          "artist": "",
+          "url": "music/papa-ke-gaane/3. Aga Bai.mp3"
+        },
+        {
+          "title": "Babli Badmaash",
+          "artist": "",
+          "url": "music/papa-ke-gaane/30. Babli Badmaash.mp3"
+        },
+        {
+          "title": "Ram Chahe Leela",
+          "artist": "",
+          "url": "music/papa-ke-gaane/31. Ram Chahe Leela.mp3"
+        },
+        {
+          "title": "Drama Queen",
+          "artist": "",
+          "url": "music/papa-ke-gaane/32. Drama Queen.mp3"
+        },
+        {
+          "title": "Chokra Jawaan",
+          "artist": "",
+          "url": "music/papa-ke-gaane/33. Chokra Jawaan.mp3"
+        },
+        {
+          "title": "Chhaliya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/34. Chhaliya.mp3"
+        },
+        {
+          "title": "Tu Mera Hero",
+          "artist": "",
+          "url": "music/papa-ke-gaane/35. Tu Mera Hero.mp3"
+        },
+        {
+          "title": "Zara Zara Touch Me",
+          "artist": "",
+          "url": "music/papa-ke-gaane/36. Zara Zara Touch Me.mp3"
+        },
+        {
+          "title": "Aadat",
+          "artist": "",
+          "url": "music/papa-ke-gaane/37. Aadat.mp3"
+        },
+        {
+          "title": "Toh Phir Aao   Original Version",
+          "artist": "",
+          "url": "music/papa-ke-gaane/38. Toh Phir Aao - Original Version.mp3"
+        },
+        {
+          "title": "Tera Mera Rishta   Original Version",
+          "artist": "",
+          "url": "music/papa-ke-gaane/39. Tera Mera Rishta - Original Version.mp3"
+        },
+        {
+          "title": "Tattoo",
+          "artist": "",
+          "url": "music/papa-ke-gaane/4. Tattoo.mp3"
+        },
+        {
+          "title": "Woh Lamhe Woh Baatein",
+          "artist": "",
+          "url": "music/papa-ke-gaane/40. Woh Lamhe Woh Baatein.mp3"
+        },
+        {
+          "title": "Galat Baat Hai",
+          "artist": "",
+          "url": "music/papa-ke-gaane/42. Galat Baat Hai.mp3"
+        },
+        {
+          "title": "Gulaabo",
+          "artist": "",
+          "url": "music/papa-ke-gaane/43. Gulaabo.mp3"
+        },
+        {
+          "title": "Oh Girl You'Re Mine .",
+          "artist": "",
+          "url": "music/papa-ke-gaane/44. Oh Girl You're Mine ..mp3"
+        },
+        {
+          "title": "Ganpat",
+          "artist": "",
+          "url": "music/papa-ke-gaane/45. Ganpat.mp3"
+        },
+        {
+          "title": "Tu Mere Agal Bagal Hai",
+          "artist": "",
+          "url": "music/papa-ke-gaane/46. Tu Mere Agal Bagal Hai.mp3"
+        },
+        {
+          "title": "Halkat Jawani",
+          "artist": "",
+          "url": "music/papa-ke-gaane/48. Halkat Jawani.mp3"
+        },
+        {
+          "title": "Hai Rama",
+          "artist": "",
+          "url": "music/papa-ke-gaane/49. Hai Rama.mp3"
+        },
+        {
+          "title": "Piya More",
+          "artist": "",
+          "url": "music/papa-ke-gaane/5. Piya More.mp3"
+        },
+        {
+          "title": "Beedi",
+          "artist": "",
+          "url": "music/papa-ke-gaane/50. Beedi.mp3"
+        },
+        {
+          "title": "Sheila Ki Jawani",
+          "artist": "",
+          "url": "music/papa-ke-gaane/51. Sheila Ki Jawani.mp3"
+        },
+        {
+          "title": "Pungi",
+          "artist": "",
+          "url": "music/papa-ke-gaane/52. Pungi.mp3"
+        },
+        {
+          "title": "Chikni Chameli",
+          "artist": "",
+          "url": "music/papa-ke-gaane/53. Chikni Chameli.mp3"
+        },
+        {
+          "title": "Kajra Re",
+          "artist": "",
+          "url": "music/papa-ke-gaane/54. Kajra Re.mp3"
+        },
+        {
+          "title": "Dreamum Wakeupum",
+          "artist": "",
+          "url": "music/papa-ke-gaane/55. Dreamum Wakeupum.mp3"
+        },
+        {
+          "title": "Latoo",
+          "artist": "",
+          "url": "music/papa-ke-gaane/56. Latoo.mp3"
+        },
+        {
+          "title": "Milegi Milegi (From  Stree )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/57. Milegi Milegi (From _Stree_).mp3"
+        },
+        {
+          "title": "Tinku Jiya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/58. Tinku Jiya.mp3"
+        },
+        {
+          "title": "Mayya Mayya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/59. Mayya Mayya.mp3"
+        },
+        {
+          "title": "Gucci",
+          "artist": "",
+          "url": "music/papa-ke-gaane/6. Gucci.mp3"
+        },
+        {
+          "title": "Billo Rani",
+          "artist": "",
+          "url": "music/papa-ke-gaane/60. Billo Rani.mp3"
+        },
+        {
+          "title": "Ghagra",
+          "artist": "",
+          "url": "music/papa-ke-gaane/61. Ghagra.mp3"
+        },
+        {
+          "title": "Kamariya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/63. Kamariya.mp3"
+        },
+        {
+          "title": "Aayi Nai (From  Stree 2 )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/64. Aayi Nai (From _Stree 2_).mp3"
+        },
+        {
+          "title": "Thumkeshwari",
+          "artist": "",
+          "url": "music/papa-ke-gaane/65. Thumkeshwari.mp3"
+        },
+        {
+          "title": "Blue Eyes",
+          "artist": "",
+          "url": "music/papa-ke-gaane/66. Blue Eyes.mp3"
+        },
+        {
+          "title": "Laal Pari (From  Housefull 5 )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/68. Laal Pari (From _Housefull 5_).mp3"
+        },
+        {
+          "title": "Party All Night (From  Boss )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/69. Party All Night (From _Boss_).mp3"
+        },
+        {
+          "title": "Fevicol Se",
+          "artist": "",
+          "url": "music/papa-ke-gaane/7. Fevicol Se.mp3"
+        },
+        {
+          "title": "Chaar Botal Vodka (From  Ragini Mms 2 )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/70. Chaar Botal Vodka (From _Ragini Mms 2_).mp3"
+        },
+        {
+          "title": "Taras   From  Munjya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/71. Taras - From _Munjya_.mp3"
+        },
+        {
+          "title": "Allah Maaf Kare",
+          "artist": "",
+          "url": "music/papa-ke-gaane/72. Allah Maaf Kare.mp3"
+        },
+        {
+          "title": "Dj Waley Babu (Feat. Aastha Gill)",
+          "artist": "",
+          "url": "music/papa-ke-gaane/73. Dj Waley Babu (feat. Aastha Gill).mp3"
+        },
+        {
+          "title": "Vele",
+          "artist": "",
+          "url": "music/papa-ke-gaane/74. Vele.mp3"
+        },
+        {
+          "title": "Anarkali Disco Chali",
+          "artist": "",
+          "url": "music/papa-ke-gaane/75. Anarkali Disco Chali.mp3"
+        },
+        {
+          "title": "Do Dhaari Talwaar",
+          "artist": "",
+          "url": "music/papa-ke-gaane/76. Do Dhaari Talwaar.mp3"
+        },
+        {
+          "title": "Kamli",
+          "artist": "",
+          "url": "music/papa-ke-gaane/77. Kamli.mp3"
+        },
+        {
+          "title": "Aaj Ki Raat (From  Stree 2 )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/78. Aaj Ki Raat (From _Stree 2_).mp3"
+        },
+        {
+          "title": "Oo Antava Oo Oo Antava",
+          "artist": "",
+          "url": "music/papa-ke-gaane/79. Oo Antava Oo Oo Antava.mp3"
+        },
+        {
+          "title": "Sheesha   Aakhya Mai Aakh Ghali Jo Bairan",
+          "artist": "",
+          "url": "music/papa-ke-gaane/8. Sheesha - Aakhya Mai Aakh Ghali Jo Bairan.mp3"
+        },
+        {
+          "title": "Garmi (From  Street Dancer 3D ) (Feat. Varun Dhawan)",
+          "artist": "",
+          "url": "music/papa-ke-gaane/80. Garmi (From _Street Dancer 3D_) (feat. Varun Dhawan).mp3"
+        },
+        {
+          "title": "O Saki Saki (From  Batla House )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/81. O Saki Saki (From _Batla House_).mp3"
+        },
+        {
+          "title": "Dilbara",
+          "artist": "",
+          "url": "music/papa-ke-gaane/82. Dilbara.mp3"
+        },
+        {
+          "title": "Saiyaan Superstar",
+          "artist": "",
+          "url": "music/papa-ke-gaane/83. Saiyaan Superstar.mp3"
+        },
+        {
+          "title": "Aao Raja",
+          "artist": "",
+          "url": "music/papa-ke-gaane/84. Aao Raja.mp3"
+        },
+        {
+          "title": "Ude Dil Befikre",
+          "artist": "",
+          "url": "music/papa-ke-gaane/85. Ude Dil Befikre.mp3"
+        },
+        {
+          "title": "Gypsy (Feat. Pranjal Dahiya )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/86. Gypsy (feat. Pranjal Dahiya ).mp3"
+        },
+        {
+          "title": "Tip Tip Barsa Paani   From  Mohra",
+          "artist": "",
+          "url": "music/papa-ke-gaane/87. Tip Tip Barsa Paani - From _Mohra_.mp3"
+        },
+        {
+          "title": "Tu Cheez Badi Hain (From  Mohra )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/88. Tu Cheez Badi Hain (From _Mohra_).mp3"
+        },
+        {
+          "title": "Ramta Jogi",
+          "artist": "",
+          "url": "music/papa-ke-gaane/89. Ramta Jogi.mp3"
+        },
+        {
+          "title": "Dilliwaali Girlfriend",
+          "artist": "",
+          "url": "music/papa-ke-gaane/9. Dilliwaali Girlfriend.mp3"
+        },
+        {
+          "title": "Balma",
+          "artist": "",
+          "url": "music/papa-ke-gaane/90. Balma.mp3"
+        },
+        {
+          "title": "Shuddh Desi Romance",
+          "artist": "",
+          "url": "music/papa-ke-gaane/91. Shuddh Desi Romance.mp3"
+        },
+        {
+          "title": "Main Badhiya Tu Bhi Badhiya (From  Sanju )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/92. Main Badhiya Tu Bhi Badhiya (From _Sanju_).mp3"
+        },
+        {
+          "title": "Lahu Munh Lag Gaya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/93. Lahu Munh Lag Gaya.mp3"
+        },
+        {
+          "title": "Ang Laga De",
+          "artist": "",
+          "url": "music/papa-ke-gaane/94. Ang Laga De.mp3"
+        },
+        {
+          "title": "Angreji Beat",
+          "artist": "",
+          "url": "music/papa-ke-gaane/95. Angreji Beat.mp3"
+        },
+        {
+          "title": "Mayya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/96. Mayya.mp3"
+        },
+        {
+          "title": "Aa Zara",
+          "artist": "",
+          "url": "music/papa-ke-gaane/97. Aa Zara.mp3"
+        },
+        {
+          "title": "Bebo",
+          "artist": "",
+          "url": "music/papa-ke-gaane/98. Bebo.mp3"
+        },
+        {
+          "title": "Banjaara",
+          "artist": "",
+          "url": "music/papa-ke-gaane/99. Banjaara.mp3"
+        }
+      ]
+    },
+    "chatpate-gaane": {
+      "tracks": [
+        {
+          "title": "Pink Lips",
+          "artist": "",
+          "url": "music/papa-ke-gaane/1. Pink Lips.mp3"
+        },
+        {
+          "title": "Munni Badnaam",
+          "artist": "",
+          "url": "music/papa-ke-gaane/10. Munni Badnaam.mp3"
+        },
+        {
+          "title": "Baby Ko Bass Pasand Hai",
+          "artist": "",
+          "url": "music/papa-ke-gaane/100. Baby Ko Bass Pasand Hai.mp3"
+        },
+        {
+          "title": "Character Dheela",
+          "artist": "",
+          "url": "music/papa-ke-gaane/11. Character Dheela.mp3"
+        },
+        {
+          "title": "Afghan Jalebi (Film Version)",
+          "artist": "",
+          "url": "music/papa-ke-gaane/12. Afghan Jalebi (Film Version).mp3"
+        },
+        {
+          "title": "Kiya Kiya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/13. Kiya Kiya.mp3"
+        },
+        {
+          "title": "Lat Lag Gayee",
+          "artist": "",
+          "url": "music/papa-ke-gaane/14. Lat Lag Gayee.mp3"
+        },
+        {
+          "title": "Aa Re Pritam Pyaare",
+          "artist": "",
+          "url": "music/papa-ke-gaane/15. Aa Re Pritam Pyaare.mp3"
+        },
+        {
+          "title": "Pinky",
+          "artist": "",
+          "url": "music/papa-ke-gaane/16. Pinky.mp3"
+        },
+        {
+          "title": "Ooh La La",
+          "artist": "",
+          "url": "music/papa-ke-gaane/17. Ooh La La.mp3"
+        },
+        {
+          "title": "Laila Main Laila",
+          "artist": "",
+          "url": "music/papa-ke-gaane/18. Laila Main Laila.mp3"
+        },
+        {
+          "title": "Le Le Mazaa Le",
+          "artist": "",
+          "url": "music/papa-ke-gaane/19. Le Le Mazaa Le.mp3"
+        },
+        {
+          "title": "Paani Waala Dance",
+          "artist": "",
+          "url": "music/papa-ke-gaane/2. Paani Waala Dance.mp3"
+        },
+        {
+          "title": "Jadoo Ki Jhappi",
+          "artist": "",
+          "url": "music/papa-ke-gaane/20. Jadoo Ki Jhappi.mp3"
+        },
+        {
+          "title": "Aa Toh Sahi",
+          "artist": "",
+          "url": "music/papa-ke-gaane/21. Aa Toh Sahi.mp3"
+        },
+        {
+          "title": "Mera Naam Mary (From  Brothers )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/22. Mera Naam Mary (From _Brothers_).mp3"
+        },
+        {
+          "title": "Do U Know",
+          "artist": "",
+          "url": "music/papa-ke-gaane/23. Do U Know.mp3"
+        },
+        {
+          "title": "Right Now Now",
+          "artist": "",
+          "url": "music/papa-ke-gaane/24. Right Now Now.mp3"
+        },
+        {
+          "title": "Aao Kabhi Haveli Pe",
+          "artist": "",
+          "url": "music/papa-ke-gaane/25. Aao Kabhi Haveli Pe.mp3"
+        },
+        {
+          "title": "Jhalla Wallah",
+          "artist": "",
+          "url": "music/papa-ke-gaane/27. Jhalla Wallah.mp3"
+        },
+        {
+          "title": "Baby Doll",
+          "artist": "",
+          "url": "music/papa-ke-gaane/28. Baby Doll.mp3"
+        },
+        {
+          "title": "Laila",
+          "artist": "",
+          "url": "music/papa-ke-gaane/29. Laila.mp3"
+        },
+        {
+          "title": "Aga Bai",
+          "artist": "",
+          "url": "music/papa-ke-gaane/3. Aga Bai.mp3"
+        },
+        {
+          "title": "Babli Badmaash",
+          "artist": "",
+          "url": "music/papa-ke-gaane/30. Babli Badmaash.mp3"
+        },
+        {
+          "title": "Ram Chahe Leela",
+          "artist": "",
+          "url": "music/papa-ke-gaane/31. Ram Chahe Leela.mp3"
+        },
+        {
+          "title": "Drama Queen",
+          "artist": "",
+          "url": "music/papa-ke-gaane/32. Drama Queen.mp3"
+        },
+        {
+          "title": "Chokra Jawaan",
+          "artist": "",
+          "url": "music/papa-ke-gaane/33. Chokra Jawaan.mp3"
+        },
+        {
+          "title": "Chhaliya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/34. Chhaliya.mp3"
+        },
+        {
+          "title": "Tu Mera Hero",
+          "artist": "",
+          "url": "music/papa-ke-gaane/35. Tu Mera Hero.mp3"
+        },
+        {
+          "title": "Zara Zara Touch Me",
+          "artist": "",
+          "url": "music/papa-ke-gaane/36. Zara Zara Touch Me.mp3"
+        },
+        {
+          "title": "Aadat",
+          "artist": "",
+          "url": "music/papa-ke-gaane/37. Aadat.mp3"
+        },
+        {
+          "title": "Toh Phir Aao   Original Version",
+          "artist": "",
+          "url": "music/papa-ke-gaane/38. Toh Phir Aao - Original Version.mp3"
+        },
+        {
+          "title": "Tera Mera Rishta   Original Version",
+          "artist": "",
+          "url": "music/papa-ke-gaane/39. Tera Mera Rishta - Original Version.mp3"
+        },
+        {
+          "title": "Tattoo",
+          "artist": "",
+          "url": "music/papa-ke-gaane/4. Tattoo.mp3"
+        },
+        {
+          "title": "Woh Lamhe Woh Baatein",
+          "artist": "",
+          "url": "music/papa-ke-gaane/40. Woh Lamhe Woh Baatein.mp3"
+        },
+        {
+          "title": "Galat Baat Hai",
+          "artist": "",
+          "url": "music/papa-ke-gaane/42. Galat Baat Hai.mp3"
+        },
+        {
+          "title": "Gulaabo",
+          "artist": "",
+          "url": "music/papa-ke-gaane/43. Gulaabo.mp3"
+        },
+        {
+          "title": "Oh Girl You'Re Mine .",
+          "artist": "",
+          "url": "music/papa-ke-gaane/44. Oh Girl You're Mine ..mp3"
+        },
+        {
+          "title": "Ganpat",
+          "artist": "",
+          "url": "music/papa-ke-gaane/45. Ganpat.mp3"
+        },
+        {
+          "title": "Tu Mere Agal Bagal Hai",
+          "artist": "",
+          "url": "music/papa-ke-gaane/46. Tu Mere Agal Bagal Hai.mp3"
+        },
+        {
+          "title": "Halkat Jawani",
+          "artist": "",
+          "url": "music/papa-ke-gaane/48. Halkat Jawani.mp3"
+        },
+        {
+          "title": "Hai Rama",
+          "artist": "",
+          "url": "music/papa-ke-gaane/49. Hai Rama.mp3"
+        },
+        {
+          "title": "Piya More",
+          "artist": "",
+          "url": "music/papa-ke-gaane/5. Piya More.mp3"
+        },
+        {
+          "title": "Beedi",
+          "artist": "",
+          "url": "music/papa-ke-gaane/50. Beedi.mp3"
+        },
+        {
+          "title": "Sheila Ki Jawani",
+          "artist": "",
+          "url": "music/papa-ke-gaane/51. Sheila Ki Jawani.mp3"
+        },
+        {
+          "title": "Pungi",
+          "artist": "",
+          "url": "music/papa-ke-gaane/52. Pungi.mp3"
+        },
+        {
+          "title": "Chikni Chameli",
+          "artist": "",
+          "url": "music/papa-ke-gaane/53. Chikni Chameli.mp3"
+        },
+        {
+          "title": "Kajra Re",
+          "artist": "",
+          "url": "music/papa-ke-gaane/54. Kajra Re.mp3"
+        },
+        {
+          "title": "Dreamum Wakeupum",
+          "artist": "",
+          "url": "music/papa-ke-gaane/55. Dreamum Wakeupum.mp3"
+        },
+        {
+          "title": "Latoo",
+          "artist": "",
+          "url": "music/papa-ke-gaane/56. Latoo.mp3"
+        },
+        {
+          "title": "Milegi Milegi (From  Stree )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/57. Milegi Milegi (From _Stree_).mp3"
+        },
+        {
+          "title": "Tinku Jiya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/58. Tinku Jiya.mp3"
+        },
+        {
+          "title": "Mayya Mayya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/59. Mayya Mayya.mp3"
+        },
+        {
+          "title": "Gucci",
+          "artist": "",
+          "url": "music/papa-ke-gaane/6. Gucci.mp3"
+        },
+        {
+          "title": "Billo Rani",
+          "artist": "",
+          "url": "music/papa-ke-gaane/60. Billo Rani.mp3"
+        },
+        {
+          "title": "Ghagra",
+          "artist": "",
+          "url": "music/papa-ke-gaane/61. Ghagra.mp3"
+        },
+        {
+          "title": "Kamariya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/63. Kamariya.mp3"
+        },
+        {
+          "title": "Aayi Nai (From  Stree 2 )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/64. Aayi Nai (From _Stree 2_).mp3"
+        },
+        {
+          "title": "Thumkeshwari",
+          "artist": "",
+          "url": "music/papa-ke-gaane/65. Thumkeshwari.mp3"
+        },
+        {
+          "title": "Blue Eyes",
+          "artist": "",
+          "url": "music/papa-ke-gaane/66. Blue Eyes.mp3"
+        },
+        {
+          "title": "Laal Pari (From  Housefull 5 )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/68. Laal Pari (From _Housefull 5_).mp3"
+        },
+        {
+          "title": "Party All Night (From  Boss )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/69. Party All Night (From _Boss_).mp3"
+        },
+        {
+          "title": "Fevicol Se",
+          "artist": "",
+          "url": "music/papa-ke-gaane/7. Fevicol Se.mp3"
+        },
+        {
+          "title": "Chaar Botal Vodka (From  Ragini Mms 2 )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/70. Chaar Botal Vodka (From _Ragini Mms 2_).mp3"
+        },
+        {
+          "title": "Taras   From  Munjya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/71. Taras - From _Munjya_.mp3"
+        },
+        {
+          "title": "Allah Maaf Kare",
+          "artist": "",
+          "url": "music/papa-ke-gaane/72. Allah Maaf Kare.mp3"
+        },
+        {
+          "title": "Dj Waley Babu (Feat. Aastha Gill)",
+          "artist": "",
+          "url": "music/papa-ke-gaane/73. Dj Waley Babu (feat. Aastha Gill).mp3"
+        },
+        {
+          "title": "Vele",
+          "artist": "",
+          "url": "music/papa-ke-gaane/74. Vele.mp3"
+        },
+        {
+          "title": "Anarkali Disco Chali",
+          "artist": "",
+          "url": "music/papa-ke-gaane/75. Anarkali Disco Chali.mp3"
+        },
+        {
+          "title": "Do Dhaari Talwaar",
+          "artist": "",
+          "url": "music/papa-ke-gaane/76. Do Dhaari Talwaar.mp3"
+        },
+        {
+          "title": "Kamli",
+          "artist": "",
+          "url": "music/papa-ke-gaane/77. Kamli.mp3"
+        },
+        {
+          "title": "Aaj Ki Raat (From  Stree 2 )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/78. Aaj Ki Raat (From _Stree 2_).mp3"
+        },
+        {
+          "title": "Oo Antava Oo Oo Antava",
+          "artist": "",
+          "url": "music/papa-ke-gaane/79. Oo Antava Oo Oo Antava.mp3"
+        },
+        {
+          "title": "Sheesha   Aakhya Mai Aakh Ghali Jo Bairan",
+          "artist": "",
+          "url": "music/papa-ke-gaane/8. Sheesha - Aakhya Mai Aakh Ghali Jo Bairan.mp3"
+        },
+        {
+          "title": "Garmi (From  Street Dancer 3D ) (Feat. Varun Dhawan)",
+          "artist": "",
+          "url": "music/papa-ke-gaane/80. Garmi (From _Street Dancer 3D_) (feat. Varun Dhawan).mp3"
+        },
+        {
+          "title": "O Saki Saki (From  Batla House )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/81. O Saki Saki (From _Batla House_).mp3"
+        },
+        {
+          "title": "Dilbara",
+          "artist": "",
+          "url": "music/papa-ke-gaane/82. Dilbara.mp3"
+        },
+        {
+          "title": "Saiyaan Superstar",
+          "artist": "",
+          "url": "music/papa-ke-gaane/83. Saiyaan Superstar.mp3"
+        },
+        {
+          "title": "Aao Raja",
+          "artist": "",
+          "url": "music/papa-ke-gaane/84. Aao Raja.mp3"
+        },
+        {
+          "title": "Ude Dil Befikre",
+          "artist": "",
+          "url": "music/papa-ke-gaane/85. Ude Dil Befikre.mp3"
+        },
+        {
+          "title": "Gypsy (Feat. Pranjal Dahiya )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/86. Gypsy (feat. Pranjal Dahiya ).mp3"
+        },
+        {
+          "title": "Tip Tip Barsa Paani   From  Mohra",
+          "artist": "",
+          "url": "music/papa-ke-gaane/87. Tip Tip Barsa Paani - From _Mohra_.mp3"
+        },
+        {
+          "title": "Tu Cheez Badi Hain (From  Mohra )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/88. Tu Cheez Badi Hain (From _Mohra_).mp3"
+        },
+        {
+          "title": "Ramta Jogi",
+          "artist": "",
+          "url": "music/papa-ke-gaane/89. Ramta Jogi.mp3"
+        },
+        {
+          "title": "Dilliwaali Girlfriend",
+          "artist": "",
+          "url": "music/papa-ke-gaane/9. Dilliwaali Girlfriend.mp3"
+        },
+        {
+          "title": "Balma",
+          "artist": "",
+          "url": "music/papa-ke-gaane/90. Balma.mp3"
+        },
+        {
+          "title": "Shuddh Desi Romance",
+          "artist": "",
+          "url": "music/papa-ke-gaane/91. Shuddh Desi Romance.mp3"
+        },
+        {
+          "title": "Main Badhiya Tu Bhi Badhiya (From  Sanju )",
+          "artist": "",
+          "url": "music/papa-ke-gaane/92. Main Badhiya Tu Bhi Badhiya (From _Sanju_).mp3"
+        },
+        {
+          "title": "Lahu Munh Lag Gaya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/93. Lahu Munh Lag Gaya.mp3"
+        },
+        {
+          "title": "Ang Laga De",
+          "artist": "",
+          "url": "music/papa-ke-gaane/94. Ang Laga De.mp3"
+        },
+        {
+          "title": "Angreji Beat",
+          "artist": "",
+          "url": "music/papa-ke-gaane/95. Angreji Beat.mp3"
+        },
+        {
+          "title": "Mayya",
+          "artist": "",
+          "url": "music/papa-ke-gaane/96. Mayya.mp3"
+        },
+        {
+          "title": "Aa Zara",
+          "artist": "",
+          "url": "music/papa-ke-gaane/97. Aa Zara.mp3"
+        },
+        {
+          "title": "Bebo",
+          "artist": "",
+          "url": "music/papa-ke-gaane/98. Bebo.mp3"
+        },
+        {
+          "title": "Banjaara",
+          "artist": "",
+          "url": "music/papa-ke-gaane/99. Banjaara.mp3"
+        }
+      ]
+    },
+    "corporate-majdoor": {
+      "tracks": [
+        {
+          "title": "Russian Bandana",
+          "artist": "",
+          "url": "music/corporate-majdoor/1. Russian Bandana.mp3"
+        },
+        {
+          "title": "Jale 2",
+          "artist": "",
+          "url": "music/corporate-majdoor/10. Jale 2.mp3"
+        },
+        {
+          "title": "Prada",
+          "artist": "",
+          "url": "music/corporate-majdoor/100. Prada.mp3"
+        },
+        {
+          "title": "Naam Tera",
+          "artist": "",
+          "url": "music/corporate-majdoor/11. Naam Tera.mp3"
+        },
+        {
+          "title": "Gurjari",
+          "artist": "",
+          "url": "music/corporate-majdoor/12. Gurjari.mp3"
+        },
+        {
+          "title": "Solid Body",
+          "artist": "",
+          "url": "music/corporate-majdoor/13. Solid Body.mp3"
+        },
+        {
+          "title": "Gajban",
+          "artist": "",
+          "url": "music/corporate-majdoor/14. Gajban.mp3"
+        },
+        {
+          "title": "Lamba Lamba Ghunghat",
+          "artist": "",
+          "url": "music/corporate-majdoor/15. Lamba Lamba Ghunghat.mp3"
+        },
+        {
+          "title": "Palang Sagwan Ke   From  Doli Saja Ke Rakhna",
+          "artist": "",
+          "url": "music/corporate-majdoor/16. Palang Sagwan Ke - From _Doli Saja Ke Rakhna_.mp3"
+        },
+        {
+          "title": "Saj Ke Sawar Ke",
+          "artist": "",
+          "url": "music/corporate-majdoor/17. Saj Ke Sawar Ke.mp3"
+        },
+        {
+          "title": "Gypsy (Feat. Pranjal Dahiya )",
+          "artist": "",
+          "url": "music/corporate-majdoor/18. Gypsy (feat. Pranjal Dahiya ).mp3"
+        },
+        {
+          "title": "Falani",
+          "artist": "",
+          "url": "music/corporate-majdoor/19. Falani.mp3"
+        },
+        {
+          "title": "Status",
+          "artist": "",
+          "url": "music/corporate-majdoor/2. Status.mp3"
+        },
+        {
+          "title": "Aakh Ye Taalibaani",
+          "artist": "",
+          "url": "music/corporate-majdoor/20. Aakh Ye Taalibaani.mp3"
+        },
+        {
+          "title": "Nazra Ke Teer",
+          "artist": "",
+          "url": "music/corporate-majdoor/21. Nazra Ke Teer.mp3"
+        },
+        {
+          "title": "Thar",
+          "artist": "",
+          "url": "music/corporate-majdoor/22. Thar.mp3"
+        },
+        {
+          "title": "Sheesha   Aakhya Mai Aakh Ghali Jo Bairan",
+          "artist": "",
+          "url": "music/corporate-majdoor/23. Sheesha - Aakhya Mai Aakh Ghali Jo Bairan.mp3"
+        },
+        {
+          "title": "Baba Ji",
+          "artist": "",
+          "url": "music/corporate-majdoor/24. Baba Ji.mp3"
+        },
+        {
+          "title": "Nature",
+          "artist": "",
+          "url": "music/corporate-majdoor/25. Nature.mp3"
+        },
+        {
+          "title": "Naam Chale",
+          "artist": "",
+          "url": "music/corporate-majdoor/26. Naam Chale.mp3"
+        },
+        {
+          "title": "Not Like You",
+          "artist": "",
+          "url": "music/corporate-majdoor/27. Not Like You.mp3"
+        },
+        {
+          "title": "Gaadi 150",
+          "artist": "",
+          "url": "music/corporate-majdoor/28. Gaadi 150.mp3"
+        },
+        {
+          "title": "Tension",
+          "artist": "",
+          "url": "music/corporate-majdoor/29. Tension.mp3"
+        },
+        {
+          "title": "Teri Lat Lag Ja Gi",
+          "artist": "",
+          "url": "music/corporate-majdoor/3. Teri Lat Lag Ja Gi.mp3"
+        },
+        {
+          "title": "Rao Sahab Retro",
+          "artist": "",
+          "url": "music/corporate-majdoor/30. Rao Sahab Retro.mp3"
+        },
+        {
+          "title": "Raat Ke Shikari",
+          "artist": "",
+          "url": "music/corporate-majdoor/31. Raat Ke Shikari.mp3"
+        },
+        {
+          "title": "Solid Body",
+          "artist": "",
+          "url": "music/corporate-majdoor/32. Solid Body.mp3"
+        },
+        {
+          "title": "Bandook 2",
+          "artist": "",
+          "url": "music/corporate-majdoor/33. Bandook 2.mp3"
+        },
+        {
+          "title": "I Love You",
+          "artist": "",
+          "url": "music/corporate-majdoor/34. I love You.mp3"
+        },
+        {
+          "title": "Dhai Litar Dudh",
+          "artist": "",
+          "url": "music/corporate-majdoor/35. Dhai Litar Dudh.mp3"
+        },
+        {
+          "title": "Ghana Kasoota (Feat. Surbhi Jyoti)",
+          "artist": "",
+          "url": "music/corporate-majdoor/36. Ghana Kasoota (feat. Surbhi Jyoti).mp3"
+        },
+        {
+          "title": "Taqdeer",
+          "artist": "",
+          "url": "music/corporate-majdoor/38. Taqdeer.mp3"
+        },
+        {
+          "title": "Badli Badli Laage",
+          "artist": "",
+          "url": "music/corporate-majdoor/39. Badli Badli Laage.mp3"
+        },
+        {
+          "title": "Gaadi Paache Gaadi",
+          "artist": "",
+          "url": "music/corporate-majdoor/4. Gaadi Paache Gaadi.mp3"
+        },
+        {
+          "title": "Laad Piya Ke",
+          "artist": "",
+          "url": "music/corporate-majdoor/40. Laad Piya Ke.mp3"
+        },
+        {
+          "title": "Ji Laage Babya Mai",
+          "artist": "",
+          "url": "music/corporate-majdoor/41. Ji Laage Babya Mai.mp3"
+        },
+        {
+          "title": "Hero Handa",
+          "artist": "",
+          "url": "music/corporate-majdoor/42. Hero Handa.mp3"
+        },
+        {
+          "title": "Rubicon Drill",
+          "artist": "",
+          "url": "music/corporate-majdoor/43. Rubicon Drill.mp3"
+        },
+        {
+          "title": "Olha Mein Patola",
+          "artist": "",
+          "url": "music/corporate-majdoor/44. Olha Mein Patola.mp3"
+        },
+        {
+          "title": "Age Gap",
+          "artist": "",
+          "url": "music/corporate-majdoor/45. Age Gap.mp3"
+        },
+        {
+          "title": "La La La",
+          "artist": "",
+          "url": "music/corporate-majdoor/46. La La La.mp3"
+        },
+        {
+          "title": "Uncle (Feat Aarju Dhillon)",
+          "artist": "",
+          "url": "music/corporate-majdoor/47. Uncle (feat Aarju Dhillon).mp3"
+        },
+        {
+          "title": "Nagan Si Lugai",
+          "artist": "",
+          "url": "music/corporate-majdoor/48. Nagan Si Lugai.mp3"
+        },
+        {
+          "title": "Dhai Litar Dudh",
+          "artist": "",
+          "url": "music/corporate-majdoor/5. Dhai Litar Dudh.mp3"
+        },
+        {
+          "title": "Hook Raja Ji",
+          "artist": "",
+          "url": "music/corporate-majdoor/50. Hook Raja Ji.mp3"
+        },
+        {
+          "title": "8 Asle",
+          "artist": "",
+          "url": "music/corporate-majdoor/51. 8 ASLE.mp3"
+        },
+        {
+          "title": "8 Parche",
+          "artist": "",
+          "url": "music/corporate-majdoor/52. 8 Parche.mp3"
+        },
+        {
+          "title": "California Love",
+          "artist": "",
+          "url": "music/corporate-majdoor/53. California Love.mp3"
+        },
+        {
+          "title": "12 Bande",
+          "artist": "",
+          "url": "music/corporate-majdoor/54. 12 Bande.mp3"
+        },
+        {
+          "title": "Aankh Ladgi",
+          "artist": "",
+          "url": "music/corporate-majdoor/55. Aankh Ladgi.mp3"
+        },
+        {
+          "title": "Masoom",
+          "artist": "",
+          "url": "music/corporate-majdoor/56. Masoom.mp3"
+        },
+        {
+          "title": "Bullet Pe Gediyan",
+          "artist": "",
+          "url": "music/corporate-majdoor/57. Bullet Pe Gediyan.mp3"
+        },
+        {
+          "title": "English Medium",
+          "artist": "",
+          "url": "music/corporate-majdoor/58. English Medium.mp3"
+        },
+        {
+          "title": "Kabootar",
+          "artist": "",
+          "url": "music/corporate-majdoor/59. Kabootar.mp3"
+        },
+        {
+          "title": "Tu Cheez Lajwab",
+          "artist": "",
+          "url": "music/corporate-majdoor/6. Tu Cheez Lajwab.mp3"
+        },
+        {
+          "title": "Byah Di Anpadh Hali Ke (Original)",
+          "artist": "",
+          "url": "music/corporate-majdoor/60. Byah Di Anpadh Hali Ke (Original).mp3"
+        },
+        {
+          "title": "Knife Brows",
+          "artist": "",
+          "url": "music/corporate-majdoor/61. Knife Brows.mp3"
+        },
+        {
+          "title": "Fortuner",
+          "artist": "",
+          "url": "music/corporate-majdoor/62. Fortuner.mp3"
+        },
+        {
+          "title": "Bahu Kale Ki",
+          "artist": "",
+          "url": "music/corporate-majdoor/63. Bahu Kale Ki.mp3"
+        },
+        {
+          "title": "White Brown Black",
+          "artist": "",
+          "url": "music/corporate-majdoor/64. White Brown Black.mp3"
+        },
+        {
+          "title": "Jhanjhar",
+          "artist": "",
+          "url": "music/corporate-majdoor/65. Jhanjhar.mp3"
+        },
+        {
+          "title": "Mammy Shadi Karwa Do",
+          "artist": "",
+          "url": "music/corporate-majdoor/66. Mammy Shadi Karwa Do.mp3"
+        },
+        {
+          "title": "Underground",
+          "artist": "",
+          "url": "music/corporate-majdoor/67. Underground.mp3"
+        },
+        {
+          "title": "Sorry Darling",
+          "artist": "",
+          "url": "music/corporate-majdoor/68. Sorry Darling.mp3"
+        },
+        {
+          "title": "Gede",
+          "artist": "",
+          "url": "music/corporate-majdoor/69. Gede.mp3"
+        },
+        {
+          "title": "Tagdi",
+          "artist": "",
+          "url": "music/corporate-majdoor/7. Tagdi.mp3"
+        },
+        {
+          "title": "Punjaban",
+          "artist": "",
+          "url": "music/corporate-majdoor/70. Punjaban.mp3"
+        },
+        {
+          "title": "Chora Jaat Ka",
+          "artist": "",
+          "url": "music/corporate-majdoor/71. Chora Jaat Ka.mp3"
+        },
+        {
+          "title": "Total",
+          "artist": "",
+          "url": "music/corporate-majdoor/72. Total.mp3"
+        },
+        {
+          "title": "Good Luck Charm",
+          "artist": "",
+          "url": "music/corporate-majdoor/73. Good Luck Charm.mp3"
+        },
+        {
+          "title": "Ishq Bawla   Coke Studio Bharat",
+          "artist": "",
+          "url": "music/corporate-majdoor/74. Ishq Bawla _ Coke Studio Bharat.mp3"
+        },
+        {
+          "title": "Kill Shot",
+          "artist": "",
+          "url": "music/corporate-majdoor/75. KILL SHOT.mp3"
+        },
+        {
+          "title": "Mera Naada Jhubedaar Se",
+          "artist": "",
+          "url": "music/corporate-majdoor/76. Mera Naada Jhubedaar Se.mp3"
+        },
+        {
+          "title": "Thada Bhartar",
+          "artist": "",
+          "url": "music/corporate-majdoor/77. Thada Bhartar.mp3"
+        },
+        {
+          "title": "Suthri Si Chhori",
+          "artist": "",
+          "url": "music/corporate-majdoor/78. Suthri Si Chhori.mp3"
+        },
+        {
+          "title": "My Queen",
+          "artist": "",
+          "url": "music/corporate-majdoor/79. My Queen.mp3"
+        },
+        {
+          "title": "Matak Chalungi",
+          "artist": "",
+          "url": "music/corporate-majdoor/8. Matak Chalungi.mp3"
+        },
+        {
+          "title": "Bhola Inside",
+          "artist": "",
+          "url": "music/corporate-majdoor/80. Bhola Inside.mp3"
+        },
+        {
+          "title": "De Balla Ki Chot Balam Ne Gend Fad Di",
+          "artist": "",
+          "url": "music/corporate-majdoor/81. De Balla Ki Chot Balam Ne Gend Fad Di.mp3"
+        },
+        {
+          "title": "Albele Tange Wale",
+          "artist": "",
+          "url": "music/corporate-majdoor/82. Albele Tange Wale.mp3"
+        },
+        {
+          "title": "Kaley Sheshe",
+          "artist": "",
+          "url": "music/corporate-majdoor/83. Kaley Sheshe.mp3"
+        },
+        {
+          "title": "Sundari",
+          "artist": "",
+          "url": "music/corporate-majdoor/84. Sundari.mp3"
+        },
+        {
+          "title": "Love Ya",
+          "artist": "",
+          "url": "music/corporate-majdoor/85. Love Ya.mp3"
+        },
+        {
+          "title": "Bachke Bachke (Feat. Yarah)",
+          "artist": "",
+          "url": "music/corporate-majdoor/86. Bachke Bachke (feat. Yarah).mp3"
+        },
+        {
+          "title": "Dhurandhar The Revenge   Aari Aari (From  Dhurandhar The Revenge )",
+          "artist": "",
+          "url": "music/corporate-majdoor/87. Dhurandhar The Revenge - Aari Aari (From _Dhurandhar The Revenge_).mp3"
+        },
+        {
+          "title": "Ram Ram",
+          "artist": "",
+          "url": "music/corporate-majdoor/88. Ram Ram.mp3"
+        },
+        {
+          "title": "Destiny   Mann Atkeya",
+          "artist": "",
+          "url": "music/corporate-majdoor/89. Destiny - Mann Atkeya.mp3"
+        },
+        {
+          "title": "52 Gaj Ka Daman",
+          "artist": "",
+          "url": "music/corporate-majdoor/9. 52 Gaj Ka Daman.mp3"
+        },
+        {
+          "title": "Jaiye Sajana",
+          "artist": "",
+          "url": "music/corporate-majdoor/90. Jaiye Sajana.mp3"
+        },
+        {
+          "title": "Main Aur Tu",
+          "artist": "",
+          "url": "music/corporate-majdoor/91. Main Aur Tu.mp3"
+        },
+        {
+          "title": "Didi (Sher E Baloch) (From  Dhurandhar The Revenge )",
+          "artist": "",
+          "url": "music/corporate-majdoor/92. Didi (Sher-E-Baloch) (From _Dhurandhar The Revenge_).mp3"
+        },
+        {
+          "title": "Mote Kharche",
+          "artist": "",
+          "url": "music/corporate-majdoor/93. Mote Kharche.mp3"
+        },
+        {
+          "title": "Vaari Jaavan (From  Dhurandhar The Revenge )",
+          "artist": "",
+          "url": "music/corporate-majdoor/94. Vaari Jaavan (From _Dhurandhar The Revenge_).mp3"
+        },
+        {
+          "title": "Jaguar",
+          "artist": "",
+          "url": "music/corporate-majdoor/95. Jaguar.mp3"
+        },
+        {
+          "title": "Tere Ishq Ne (From  Dhurandhar The Revenge )",
+          "artist": "",
+          "url": "music/corporate-majdoor/96. Tere Ishq Ne (From _Dhurandhar The Revenge_).mp3"
+        },
+        {
+          "title": "Daru Badnaam",
+          "artist": "",
+          "url": "music/corporate-majdoor/98. Daru Badnaam.mp3"
+        },
+        {
+          "title": "Boom Shaka",
+          "artist": "",
+          "url": "music/corporate-majdoor/99. Boom Shaka.mp3"
+        }
+      ]
+    },
+    "haryanvi-bangers": {
+      "tracks": [
+        {
+          "title": "Russian Bandana",
+          "artist": "",
+          "url": "music/corporate-majdoor/1. Russian Bandana.mp3"
+        },
+        {
+          "title": "Jale 2",
+          "artist": "",
+          "url": "music/corporate-majdoor/10. Jale 2.mp3"
+        },
+        {
+          "title": "Prada",
+          "artist": "",
+          "url": "music/corporate-majdoor/100. Prada.mp3"
+        },
+        {
+          "title": "Naam Tera",
+          "artist": "",
+          "url": "music/corporate-majdoor/11. Naam Tera.mp3"
+        },
+        {
+          "title": "Gurjari",
+          "artist": "",
+          "url": "music/corporate-majdoor/12. Gurjari.mp3"
+        },
+        {
+          "title": "Solid Body",
+          "artist": "",
+          "url": "music/corporate-majdoor/13. Solid Body.mp3"
+        },
+        {
+          "title": "Gajban",
+          "artist": "",
+          "url": "music/corporate-majdoor/14. Gajban.mp3"
+        },
+        {
+          "title": "Lamba Lamba Ghunghat",
+          "artist": "",
+          "url": "music/corporate-majdoor/15. Lamba Lamba Ghunghat.mp3"
+        },
+        {
+          "title": "Palang Sagwan Ke   From  Doli Saja Ke Rakhna",
+          "artist": "",
+          "url": "music/corporate-majdoor/16. Palang Sagwan Ke - From _Doli Saja Ke Rakhna_.mp3"
+        },
+        {
+          "title": "Saj Ke Sawar Ke",
+          "artist": "",
+          "url": "music/corporate-majdoor/17. Saj Ke Sawar Ke.mp3"
+        },
+        {
+          "title": "Gypsy (Feat. Pranjal Dahiya )",
+          "artist": "",
+          "url": "music/corporate-majdoor/18. Gypsy (feat. Pranjal Dahiya ).mp3"
+        },
+        {
+          "title": "Falani",
+          "artist": "",
+          "url": "music/corporate-majdoor/19. Falani.mp3"
+        },
+        {
+          "title": "Status",
+          "artist": "",
+          "url": "music/corporate-majdoor/2. Status.mp3"
+        },
+        {
+          "title": "Aakh Ye Taalibaani",
+          "artist": "",
+          "url": "music/corporate-majdoor/20. Aakh Ye Taalibaani.mp3"
+        },
+        {
+          "title": "Nazra Ke Teer",
+          "artist": "",
+          "url": "music/corporate-majdoor/21. Nazra Ke Teer.mp3"
+        },
+        {
+          "title": "Thar",
+          "artist": "",
+          "url": "music/corporate-majdoor/22. Thar.mp3"
+        },
+        {
+          "title": "Sheesha   Aakhya Mai Aakh Ghali Jo Bairan",
+          "artist": "",
+          "url": "music/corporate-majdoor/23. Sheesha - Aakhya Mai Aakh Ghali Jo Bairan.mp3"
+        },
+        {
+          "title": "Baba Ji",
+          "artist": "",
+          "url": "music/corporate-majdoor/24. Baba Ji.mp3"
+        },
+        {
+          "title": "Nature",
+          "artist": "",
+          "url": "music/corporate-majdoor/25. Nature.mp3"
+        },
+        {
+          "title": "Naam Chale",
+          "artist": "",
+          "url": "music/corporate-majdoor/26. Naam Chale.mp3"
+        },
+        {
+          "title": "Not Like You",
+          "artist": "",
+          "url": "music/corporate-majdoor/27. Not Like You.mp3"
+        },
+        {
+          "title": "Gaadi 150",
+          "artist": "",
+          "url": "music/corporate-majdoor/28. Gaadi 150.mp3"
+        },
+        {
+          "title": "Tension",
+          "artist": "",
+          "url": "music/corporate-majdoor/29. Tension.mp3"
+        },
+        {
+          "title": "Teri Lat Lag Ja Gi",
+          "artist": "",
+          "url": "music/corporate-majdoor/3. Teri Lat Lag Ja Gi.mp3"
+        },
+        {
+          "title": "Rao Sahab Retro",
+          "artist": "",
+          "url": "music/corporate-majdoor/30. Rao Sahab Retro.mp3"
+        },
+        {
+          "title": "Raat Ke Shikari",
+          "artist": "",
+          "url": "music/corporate-majdoor/31. Raat Ke Shikari.mp3"
+        },
+        {
+          "title": "Solid Body",
+          "artist": "",
+          "url": "music/corporate-majdoor/32. Solid Body.mp3"
+        },
+        {
+          "title": "Bandook 2",
+          "artist": "",
+          "url": "music/corporate-majdoor/33. Bandook 2.mp3"
+        },
+        {
+          "title": "I Love You",
+          "artist": "",
+          "url": "music/corporate-majdoor/34. I love You.mp3"
+        },
+        {
+          "title": "Dhai Litar Dudh",
+          "artist": "",
+          "url": "music/corporate-majdoor/35. Dhai Litar Dudh.mp3"
+        },
+        {
+          "title": "Ghana Kasoota (Feat. Surbhi Jyoti)",
+          "artist": "",
+          "url": "music/corporate-majdoor/36. Ghana Kasoota (feat. Surbhi Jyoti).mp3"
+        },
+        {
+          "title": "Taqdeer",
+          "artist": "",
+          "url": "music/corporate-majdoor/38. Taqdeer.mp3"
+        },
+        {
+          "title": "Badli Badli Laage",
+          "artist": "",
+          "url": "music/corporate-majdoor/39. Badli Badli Laage.mp3"
+        },
+        {
+          "title": "Gaadi Paache Gaadi",
+          "artist": "",
+          "url": "music/corporate-majdoor/4. Gaadi Paache Gaadi.mp3"
+        },
+        {
+          "title": "Laad Piya Ke",
+          "artist": "",
+          "url": "music/corporate-majdoor/40. Laad Piya Ke.mp3"
+        },
+        {
+          "title": "Ji Laage Babya Mai",
+          "artist": "",
+          "url": "music/corporate-majdoor/41. Ji Laage Babya Mai.mp3"
+        },
+        {
+          "title": "Hero Handa",
+          "artist": "",
+          "url": "music/corporate-majdoor/42. Hero Handa.mp3"
+        },
+        {
+          "title": "Rubicon Drill",
+          "artist": "",
+          "url": "music/corporate-majdoor/43. Rubicon Drill.mp3"
+        },
+        {
+          "title": "Olha Mein Patola",
+          "artist": "",
+          "url": "music/corporate-majdoor/44. Olha Mein Patola.mp3"
+        },
+        {
+          "title": "Age Gap",
+          "artist": "",
+          "url": "music/corporate-majdoor/45. Age Gap.mp3"
+        },
+        {
+          "title": "La La La",
+          "artist": "",
+          "url": "music/corporate-majdoor/46. La La La.mp3"
+        },
+        {
+          "title": "Uncle (Feat Aarju Dhillon)",
+          "artist": "",
+          "url": "music/corporate-majdoor/47. Uncle (feat Aarju Dhillon).mp3"
+        },
+        {
+          "title": "Nagan Si Lugai",
+          "artist": "",
+          "url": "music/corporate-majdoor/48. Nagan Si Lugai.mp3"
+        },
+        {
+          "title": "Dhai Litar Dudh",
+          "artist": "",
+          "url": "music/corporate-majdoor/5. Dhai Litar Dudh.mp3"
+        },
+        {
+          "title": "Hook Raja Ji",
+          "artist": "",
+          "url": "music/corporate-majdoor/50. Hook Raja Ji.mp3"
+        },
+        {
+          "title": "8 Asle",
+          "artist": "",
+          "url": "music/corporate-majdoor/51. 8 ASLE.mp3"
+        },
+        {
+          "title": "8 Parche",
+          "artist": "",
+          "url": "music/corporate-majdoor/52. 8 Parche.mp3"
+        },
+        {
+          "title": "California Love",
+          "artist": "",
+          "url": "music/corporate-majdoor/53. California Love.mp3"
+        },
+        {
+          "title": "12 Bande",
+          "artist": "",
+          "url": "music/corporate-majdoor/54. 12 Bande.mp3"
+        },
+        {
+          "title": "Aankh Ladgi",
+          "artist": "",
+          "url": "music/corporate-majdoor/55. Aankh Ladgi.mp3"
+        },
+        {
+          "title": "Masoom",
+          "artist": "",
+          "url": "music/corporate-majdoor/56. Masoom.mp3"
+        },
+        {
+          "title": "Bullet Pe Gediyan",
+          "artist": "",
+          "url": "music/corporate-majdoor/57. Bullet Pe Gediyan.mp3"
+        },
+        {
+          "title": "English Medium",
+          "artist": "",
+          "url": "music/corporate-majdoor/58. English Medium.mp3"
+        },
+        {
+          "title": "Kabootar",
+          "artist": "",
+          "url": "music/corporate-majdoor/59. Kabootar.mp3"
+        },
+        {
+          "title": "Tu Cheez Lajwab",
+          "artist": "",
+          "url": "music/corporate-majdoor/6. Tu Cheez Lajwab.mp3"
+        },
+        {
+          "title": "Byah Di Anpadh Hali Ke (Original)",
+          "artist": "",
+          "url": "music/corporate-majdoor/60. Byah Di Anpadh Hali Ke (Original).mp3"
+        },
+        {
+          "title": "Knife Brows",
+          "artist": "",
+          "url": "music/corporate-majdoor/61. Knife Brows.mp3"
+        },
+        {
+          "title": "Fortuner",
+          "artist": "",
+          "url": "music/corporate-majdoor/62. Fortuner.mp3"
+        },
+        {
+          "title": "Bahu Kale Ki",
+          "artist": "",
+          "url": "music/corporate-majdoor/63. Bahu Kale Ki.mp3"
+        },
+        {
+          "title": "White Brown Black",
+          "artist": "",
+          "url": "music/corporate-majdoor/64. White Brown Black.mp3"
+        },
+        {
+          "title": "Jhanjhar",
+          "artist": "",
+          "url": "music/corporate-majdoor/65. Jhanjhar.mp3"
+        },
+        {
+          "title": "Mammy Shadi Karwa Do",
+          "artist": "",
+          "url": "music/corporate-majdoor/66. Mammy Shadi Karwa Do.mp3"
+        },
+        {
+          "title": "Underground",
+          "artist": "",
+          "url": "music/corporate-majdoor/67. Underground.mp3"
+        },
+        {
+          "title": "Sorry Darling",
+          "artist": "",
+          "url": "music/corporate-majdoor/68. Sorry Darling.mp3"
+        },
+        {
+          "title": "Gede",
+          "artist": "",
+          "url": "music/corporate-majdoor/69. Gede.mp3"
+        },
+        {
+          "title": "Tagdi",
+          "artist": "",
+          "url": "music/corporate-majdoor/7. Tagdi.mp3"
+        },
+        {
+          "title": "Punjaban",
+          "artist": "",
+          "url": "music/corporate-majdoor/70. Punjaban.mp3"
+        },
+        {
+          "title": "Chora Jaat Ka",
+          "artist": "",
+          "url": "music/corporate-majdoor/71. Chora Jaat Ka.mp3"
+        },
+        {
+          "title": "Total",
+          "artist": "",
+          "url": "music/corporate-majdoor/72. Total.mp3"
+        },
+        {
+          "title": "Good Luck Charm",
+          "artist": "",
+          "url": "music/corporate-majdoor/73. Good Luck Charm.mp3"
+        },
+        {
+          "title": "Ishq Bawla   Coke Studio Bharat",
+          "artist": "",
+          "url": "music/corporate-majdoor/74. Ishq Bawla _ Coke Studio Bharat.mp3"
+        },
+        {
+          "title": "Kill Shot",
+          "artist": "",
+          "url": "music/corporate-majdoor/75. KILL SHOT.mp3"
+        },
+        {
+          "title": "Mera Naada Jhubedaar Se",
+          "artist": "",
+          "url": "music/corporate-majdoor/76. Mera Naada Jhubedaar Se.mp3"
+        },
+        {
+          "title": "Thada Bhartar",
+          "artist": "",
+          "url": "music/corporate-majdoor/77. Thada Bhartar.mp3"
+        },
+        {
+          "title": "Suthri Si Chhori",
+          "artist": "",
+          "url": "music/corporate-majdoor/78. Suthri Si Chhori.mp3"
+        },
+        {
+          "title": "My Queen",
+          "artist": "",
+          "url": "music/corporate-majdoor/79. My Queen.mp3"
+        },
+        {
+          "title": "Matak Chalungi",
+          "artist": "",
+          "url": "music/corporate-majdoor/8. Matak Chalungi.mp3"
+        },
+        {
+          "title": "Bhola Inside",
+          "artist": "",
+          "url": "music/corporate-majdoor/80. Bhola Inside.mp3"
+        },
+        {
+          "title": "De Balla Ki Chot Balam Ne Gend Fad Di",
+          "artist": "",
+          "url": "music/corporate-majdoor/81. De Balla Ki Chot Balam Ne Gend Fad Di.mp3"
+        },
+        {
+          "title": "Albele Tange Wale",
+          "artist": "",
+          "url": "music/corporate-majdoor/82. Albele Tange Wale.mp3"
+        },
+        {
+          "title": "Kaley Sheshe",
+          "artist": "",
+          "url": "music/corporate-majdoor/83. Kaley Sheshe.mp3"
+        },
+        {
+          "title": "Sundari",
+          "artist": "",
+          "url": "music/corporate-majdoor/84. Sundari.mp3"
+        },
+        {
+          "title": "Love Ya",
+          "artist": "",
+          "url": "music/corporate-majdoor/85. Love Ya.mp3"
+        },
+        {
+          "title": "Bachke Bachke (Feat. Yarah)",
+          "artist": "",
+          "url": "music/corporate-majdoor/86. Bachke Bachke (feat. Yarah).mp3"
+        },
+        {
+          "title": "Dhurandhar The Revenge   Aari Aari (From  Dhurandhar The Revenge )",
+          "artist": "",
+          "url": "music/corporate-majdoor/87. Dhurandhar The Revenge - Aari Aari (From _Dhurandhar The Revenge_).mp3"
+        },
+        {
+          "title": "Ram Ram",
+          "artist": "",
+          "url": "music/corporate-majdoor/88. Ram Ram.mp3"
+        },
+        {
+          "title": "Destiny   Mann Atkeya",
+          "artist": "",
+          "url": "music/corporate-majdoor/89. Destiny - Mann Atkeya.mp3"
+        },
+        {
+          "title": "52 Gaj Ka Daman",
+          "artist": "",
+          "url": "music/corporate-majdoor/9. 52 Gaj Ka Daman.mp3"
+        },
+        {
+          "title": "Jaiye Sajana",
+          "artist": "",
+          "url": "music/corporate-majdoor/90. Jaiye Sajana.mp3"
+        },
+        {
+          "title": "Main Aur Tu",
+          "artist": "",
+          "url": "music/corporate-majdoor/91. Main Aur Tu.mp3"
+        },
+        {
+          "title": "Didi (Sher E Baloch) (From  Dhurandhar The Revenge )",
+          "artist": "",
+          "url": "music/corporate-majdoor/92. Didi (Sher-E-Baloch) (From _Dhurandhar The Revenge_).mp3"
+        },
+        {
+          "title": "Mote Kharche",
+          "artist": "",
+          "url": "music/corporate-majdoor/93. Mote Kharche.mp3"
+        },
+        {
+          "title": "Vaari Jaavan (From  Dhurandhar The Revenge )",
+          "artist": "",
+          "url": "music/corporate-majdoor/94. Vaari Jaavan (From _Dhurandhar The Revenge_).mp3"
+        },
+        {
+          "title": "Jaguar",
+          "artist": "",
+          "url": "music/corporate-majdoor/95. Jaguar.mp3"
+        },
+        {
+          "title": "Tere Ishq Ne (From  Dhurandhar The Revenge )",
+          "artist": "",
+          "url": "music/corporate-majdoor/96. Tere Ishq Ne (From _Dhurandhar The Revenge_).mp3"
+        },
+        {
+          "title": "Daru Badnaam",
+          "artist": "",
+          "url": "music/corporate-majdoor/98. Daru Badnaam.mp3"
+        },
+        {
+          "title": "Boom Shaka",
+          "artist": "",
+          "url": "music/corporate-majdoor/99. Boom Shaka.mp3"
+        }
+      ]
+    }
+  },
+  "generated": "2026-10-19T19:39:06+00:00"
+}

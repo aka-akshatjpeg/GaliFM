@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en" data-station="0">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gali FM — Radio for Everyday Moments</title>
+  <meta name="description" content="Seven ambient radio worlds inspired by everyday Indian life. Free to listen, no account needed." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     NAVIGATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<header class="site-nav" id="siteNav" role="banner">
+  <div class="nav-inner">
+
+    <a href="#" class="nav-logo" aria-label="Gali FM — home">
+      <svg width="22" height="22" viewBox="0 0 28 28" fill="none" aria-hidden="true" class="nav-logo-icon">
+        <circle cx="14" cy="14" r="12" stroke="currentColor" stroke-width="1.5"/>
+        <circle cx="14" cy="14" r="5"  fill="currentColor" opacity="0.25"/>
+        <circle cx="14" cy="14" r="2"  fill="currentColor"/>
+        <line x1="14" y1="2" x2="14" y2="6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <span>Gali <em>FM</em></span>
+    </a>
+
+    <!-- Desktop links -->
+    <nav class="nav-links" aria-label="Site sections">
+      <a href="#overview"  class="nav-link">Overview</a>
+      <a href="#features"  class="nav-link">Features</a>
+      <a href="#about"     class="nav-link">About</a>
+      <a href="#faq"       class="nav-link">FAQ</a>
+    </nav>
+
+    <div class="nav-actions">
+      <a href="stations.html" class="btn-listen">Listen now</a>
+
+      <!-- Mobile hamburger -->
+      <button class="nav-hamburger" id="navHamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobileMenu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile drawer -->
+  <div class="mobile-menu" id="mobileMenu" hidden>
+    <a href="#overview" class="mobile-link" data-close-menu>Overview</a>
+    <a href="#features" class="mobile-link" data-close-menu>Features</a>
+    <a href="#about"    class="mobile-link" data-close-menu>About</a>
+    <a href="#faq"      class="mobile-link" data-close-menu>FAQ</a>
+    <a href="stations.html" class="mobile-link mobile-listen" data-close-menu>Listen now</a>
+  </div>
+</header>
+
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     HERO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<section class="hero" aria-labelledby="hero-heading">
+  <div class="hero-bg-wrap" aria-hidden="true">
+    <div class="hero-bg-img"></div>
+    <div class="hero-bg-overlay"></div>
+  </div>
+
+  <div class="hero-body">
+    <div class="hero-text">
+      <p class="hero-eyebrow">Always On</p>
+      <h1 id="hero-heading" class="hero-title">
+        GALI <em>FM</em>
+      </h1>
+      <p class="hero-tagline">Radio for Everyday Moments</p>
+      <p class="hero-desc">
+        Your everyday escape into music, moods, and the familiar sounds of life.
+        Discover a listening experience inspired by the warmth, nostalgia,
+        and character of India.
+      </p>
+      <div class="hero-cta">
+        <a href="stations.html" class="btn-primary">Start Listening</a>
+        <a href="#overview" class="btn-text">Explore Gali FM ↓</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     OVERVIEW — compact station strip
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<section class="section" id="overview" aria-labelledby="overview-heading">
+  <div class="container">
+
+    <div class="section-header">
+      <span class="label-tag">Explore the Worlds</span>
+      <h2 id="overview-heading" class="section-title">Seven worlds. One radio.</h2>
+      <p class="section-desc">
+        From nostalgic Bollywood melodies to late-night highway journeys, every
+        Gali FM station captures a different slice of everyday life.
+      </p>
+    </div>
+
+    <!-- Compact station strip (injected by landing-app.js) -->
+    <div class="station-strip" id="stationStrip" aria-label="Available stations" role="list"></div>
+
+    <div class="overview-cta">
+      <a href="stations.html" class="btn-outline">Explore all stations →</a>
+    </div>
+
+  </div>
+</section>
+
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     ABOUT (two-column)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<section class="section section-about" id="about" aria-labelledby="about-heading">
+  <div class="container">
+    <div class="about-grid">
+
+      <div class="about-text">
+        <span class="label-tag">About</span>
+        <h2 id="about-heading" class="section-title">More Than Just Music</h2>
+        <p class="about-body">
+          Gali FM brings the atmosphere of everyday life into your listening experience.
+          Inspired by India's streets, neighbourhoods, memories, and culture, it creates
+          a place to slow down, find your mood, and enjoy the moments that make an
+          ordinary day feel special.
+        </p>
+        <p class="about-body">
+          Each station is a <em>place</em>, not a playlist. A night highway, a warm kitchen,
+          a construction site at noon, a living room with an old cassette player.
+          The music and atmosphere belong together.
+        </p>
+        <p class="about-body">
+          Pick a world. Press play. Leave it on while you work, cook, or rest.
+          That's all there is to it.
+        </p>
+      </div>
+
+      <div class="about-image-wrap" aria-hidden="true">
+        <div class="about-image"></div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     FEATURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<section class="section section-features" id="features" aria-labelledby="features-heading">
+  <div class="container">
+
+    <div class="section-header">
+      <span class="label-tag">What you get</span>
+      <h2 id="features-heading" class="section-title">What you can do on Gali FM</h2>
+    </div>
+
+    <div class="features-grid">
+
+      <div class="feature-card">
+        <div class="feature-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"/><polygon points="10,8 16,12 10,16"/>
+          </svg>
+        </div>
+        <h3 class="feature-title">Seven Radio Worlds</h3>
+        <p class="feature-desc">
+          Browse seven distinctly themed ambient stations — each with its own
+          atmosphere, character, and music mood. Switch freely between them at any time.
+        </p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/>
+          </svg>
+        </div>
+        <h3 class="feature-title">A Built-in Music Player</h3>
+        <p class="feature-desc">
+          A clean, accessible audio player with play, pause, prev, next, and volume controls.
+          Supports both individual tracks and continuous streams,
+          with honest loading and error states.
+        </p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/>
+          </svg>
+        </div>
+        <h3 class="feature-title">An Indian Atmosphere</h3>
+        <p class="feature-desc">
+          Designed around the visual culture and everyday character of India.
+          Each station carries its own story: a neighbourhood barbershop,
+          a late-night bus ride, a kitchen after dinner.
+        </p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"/><polyline points="12,6 12,12 16,14"/>
+          </svg>
+        </div>
+        <h3 class="feature-title">Made for Everyday Moments</h3>
+        <p class="feature-desc">
+          Use Gali FM while working, studying, cooking, or winding down.
+          No algorithm. No recommendations. Just the right sound for the moment you're in.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     HOW IT WORKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<section class="section section-how" aria-labelledby="how-heading">
+  <div class="container">
+
+    <div class="section-header">
+      <span class="label-tag">Simple by design</span>
+      <h2 id="how-heading" class="section-title">How it works</h2>
+    </div>
+
+    <ol class="steps-list" aria-label="How to use Gali FM">
+      <li class="step">
+        <span class="step-num" aria-hidden="true">01</span>
+        <div class="step-content">
+          <h3 class="step-title">Explore</h3>
+          <p class="step-desc">Browse the seven stations on the Stations page. Each one carries a different mood, setting, and character. Pick the world that fits your moment.</p>
+        </div>
+      </li>
+      <li class="step">
+        <span class="step-num" aria-hidden="true">02</span>
+        <div class="step-content">
+          <h3 class="step-title">Press Play</h3>
+          <p class="step-desc">Select a station and hit the play button. The controls handle loading, pausing, volume, and switching tracks — everything you need, nothing you don't.</p>
+        </div>
+      </li>
+      <li class="step">
+        <span class="step-num" aria-hidden="true">03</span>
+        <div class="step-content">
+          <h3 class="step-title">Enjoy the Moment</h3>
+          <p class="step-desc">Keep Gali FM running in the background. Work, cook, travel, relax — the music keeps going as long as you do.</p>
+        </div>
+      </li>
+    </ol>
+
+  </div>
+</section>
+
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     EDITORIAL BAND
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<section class="editorial-band" aria-label="The Gali FM experience">
+  <div class="editorial-bg" aria-hidden="true"></div>
+  <div class="editorial-overlay" aria-hidden="true"></div>
+  <div class="editorial-content">
+    <p class="editorial-sub">The Gali FM Experience</p>
+    <h2 class="editorial-heading">A little bit of India.<br/>A different kind of listening.</h2>
+    <p class="editorial-body">
+      The sounds of everyday Indian life — a radio in the next room, rain on a tin roof,
+      the hiss of a chai kettle — these are not background noise. They are the texture
+      of ordinary moments, and ordinary moments are where real life happens.
+      Gali FM is built around that feeling.
+    </p>
+  </div>
+</section>
+
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     FAQ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<section class="section" id="faq" aria-labelledby="faq-heading">
+  <div class="container faq-container">
+
+    <div class="section-header section-header-left">
+      <span class="label-tag">Questions</span>
+      <h2 id="faq-heading" class="section-title">Frequently asked</h2>
+    </div>
+
+    <div class="faq-list" role="list">
+
+      <details class="faq-item" role="listitem">
+        <summary class="faq-q">What is Gali FM?</summary>
+        <p class="faq-a">
+          Gali FM is an ambient radio project with seven themed stations inspired by everyday
+          Indian life — a barbershop, a night bus, a kitchen after dinner, a construction site
+          at noon, a living room, a Bhojpuri celebration, and a late-office evening.
+          Each station has its own atmosphere, music, and character.
+        </p>
+      </details>
+
+      <details class="faq-item" role="listitem">
+        <summary class="faq-q">How do I listen?</summary>
+        <p class="faq-a">
+          Click <strong>Start Listening</strong> or <strong>Listen now</strong> to go to the Stations page.
+          Select a world, then use the player's play button. No account, no sign-up required.
+        </p>
+      </details>
+
+      <details class="faq-item" role="listitem">
+        <summary class="faq-q">Is Gali FM free to use?</summary>
+        <p class="faq-a">
+          Yes. Gali FM is completely free. There are no subscriptions, no paywalls,
+          and no account required to listen.
+        </p>
+      </details>
+
+      <details class="faq-item" role="listitem">
+        <summary class="faq-q">Can I listen while working or studying?</summary>
+        <p class="faq-a">
+          Absolutely — that's exactly what it's designed for. Start a station, minimise
+          the tab, and let it run. The audio keeps playing in the background.
+        </p>
+      </details>
+
+      <details class="faq-item" role="listitem">
+        <summary class="faq-q">Why isn't there any audio playing yet?</summary>
+        <p class="faq-a">
+          Gali FM's player is built and ready. Audio will play once licensed track URLs
+          are connected in the project. The player architecture handles loading,
+          streaming, errors, and track changes — it just needs content.
+        </p>
+      </details>
+
+      <details class="faq-item" role="listitem">
+        <summary class="faq-q">How can I get in touch?</summary>
+        <p class="faq-a">
+          Contact and support details will appear here once they are set up by the project owner.
+          In the meantime, refer to the Privacy and Contact links in the footer.
+        </p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     FOOTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<footer class="site-footer" role="contentinfo">
+  <div class="container footer-inner">
+
+    <div class="footer-brand-col">
+      <p class="footer-wordmark">Gali <em>FM</em></p>
+      <p class="footer-tagline">Radio for Everyday Moments</p>
+      <p class="footer-copy">
+        An ambient radio project inspired by the sounds and character of everyday Indian life.
+        Music is included only where usage rights have been confirmed.
+      </p>
+    </div>
+
+    <nav class="footer-links" aria-label="Footer links">
+      <a href="#overview" class="footer-link">Overview</a>
+      <a href="#about"    class="footer-link">About</a>
+      <a href="#faq"      class="footer-link">FAQ</a>
+      <a href="#"         class="footer-link">Privacy</a>
+      <a href="#"         class="footer-link">Contact</a>
+    </nav>
+
+    <p class="footer-legal">
+      &copy; <span id="copyrightYear"></span> Gali FM.
+      All rights reserved.
+    </p>
+
+  </div>
+</footer>
+
+<!-- Shared station data -->
+<script src="stations-data.js"></script>
+<!-- Landing page script -->
+<script src="app.js"></script>
+</body>
+</html>
